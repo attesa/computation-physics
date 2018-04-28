@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Problem 1}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Description}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Numerical Analysis}{2}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}part a}{2}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}part b}{3}{subsubsection.1.2.2}
+\contentsline {section}{\numberline {2}Problem 2}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Description}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Result}{5}{subsection.2.2}
+\contentsline {section}{\numberline {3}Problem 3}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}Description}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Result}{8}{subsection.3.2}
+\contentsline {section}{\numberline {A}Appendix}{12}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}python code}{12}{subsection.A.1}

@@ -1,0 +1,2800 @@
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 94
+         Function evaluations: 129
+         Gradient evaluations: 129
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843154008 nm
+ (Na+)-(Na+) r_02 = 0.425843153549 nm
+ (Na+)-(Cl-) r_03 = 0.245860659651 nm
+ (Na+)-(Cl-) r_04 = 0.245860658876 nm
+ (Na+)-(Cl-) r_05 = 0.4917213162 nm
+ (Na+)-(Na+) r_12 = 0.425843155928 nm
+ (Na+)-(Cl-) r_13 = 0.245860659106 nm
+ (Na+)-(Cl-) r_14 = 0.491721319822 nm
+ (Na+)-(Cl-) r_15 = 0.245860659816 nm
+ (Na+)-(Cl-) r_23 = 0.491721319601 nm
+ (Na+)-(Cl-) r_24 = 0.245860659308 nm
+ (Na+)-(Cl-) r_25 = 0.245860658866 nm
+ (Cl-)-(Cl-) r_34 = 0.425843153726 nm
+ (Cl-)-(Cl-) r_35 = 0.425843151863 nm
+ (Cl-)-(Cl-) r_45 = 0.425843151559 nm
+   0.346   0.667   0.618
+   0.632   0.514   0.342
+   0.387   0.246   0.565
+   0.523   0.705   0.452
+   0.278   0.437   0.675
+   0.564   0.284   0.398
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 133
+         Function evaluations: 178
+         Gradient evaluations: 178
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843141122 nm
+ (Na+)-(Na+) r_02 = 0.42584315639 nm
+ (Na+)-(Cl-) r_03 = 0.491721312819 nm
+ (Na+)-(Cl-) r_04 = 0.245860658174 nm
+ (Na+)-(Cl-) r_05 = 0.245860659354 nm
+ (Na+)-(Na+) r_12 = 0.425843153744 nm
+ (Na+)-(Cl-) r_13 = 0.24586065853 nm
+ (Na+)-(Cl-) r_14 = 0.245860657188 nm
+ (Na+)-(Cl-) r_15 = 0.491721308446 nm
+ (Na+)-(Cl-) r_23 = 0.245860660049 nm
+ (Na+)-(Cl-) r_24 = 0.491721331464 nm
+ (Na+)-(Cl-) r_25 = 0.245860659435 nm
+ (Cl-)-(Cl-) r_34 = 0.425843158987 nm
+ (Cl-)-(Cl-) r_35 = 0.425843147873 nm
+ (Cl-)-(Cl-) r_45 = 0.425843157507 nm
+   0.334   0.284   0.402
+   0.231   0.689   0.485
+  -0.050   0.379   0.559
+   0.009   0.617   0.562
+   0.394   0.523   0.405
+   0.112   0.212   0.479
+
+Optimization terminated successfully.
+         Current function value: -19.120302
+         Iterations: 87
+         Function evaluations: 108
+         Gradient evaluations: 108
+ Minimized potential energy = -19.1203016825 eV
+ (Na+)-(Na+) r_01 = 0.495798974007 nm
+ (Na+)-(Na+) r_02 = 0.471883513596 nm
+ (Na+)-(Cl-) r_03 = 0.248899285299 nm
+ (Na+)-(Cl-) r_04 = 0.244895877118 nm
+ (Na+)-(Cl-) r_05 = 0.721387521344 nm
+ (Na+)-(Na+) r_12 = 0.842617251179 nm
+ (Na+)-(Cl-) r_13 = 0.692160822179 nm
+ (Na+)-(Cl-) r_14 = 0.254640490623 nm
+ (Na+)-(Cl-) r_15 = 0.235526864577 nm
+ (Na+)-(Cl-) r_23 = 0.23587430451 nm
+ (Na+)-(Cl-) r_24 = 0.652425822327 nm
+ (Na+)-(Cl-) r_25 = 1.01307641538 nm
+ (Cl-)-(Cl-) r_34 = 0.465632616923 nm
+ (Cl-)-(Cl-) r_35 = 0.894879622235 nm
+ (Cl-)-(Cl-) r_45 = 0.486837547024 nm
+   0.327   0.481   0.162
+   0.327   0.289   0.619
+   0.327   0.948   0.094
+   0.327   0.713   0.072
+   0.327   0.359   0.374
+   0.327   0.278   0.854
+
+Optimization terminated successfully.
+         Current function value: -20.473500
+         Iterations: 125
+         Function evaluations: 148
+         Gradient evaluations: 148
+ Minimized potential energy = -20.4734997614 eV
+ (Na+)-(Na+) r_01 = 0.402942916741 nm
+ (Na+)-(Na+) r_02 = 0.450537891483 nm
+ (Na+)-(Cl-) r_03 = 0.25054201266 nm
+ (Na+)-(Cl-) r_04 = 0.245335169265 nm
+ (Na+)-(Cl-) r_05 = 0.461301561425 nm
+ (Na+)-(Na+) r_12 = 0.461279951118 nm
+ (Na+)-(Cl-) r_13 = 0.479540594708 nm
+ (Na+)-(Cl-) r_14 = 0.245129631293 nm
+ (Na+)-(Cl-) r_15 = 0.251542425551 nm
+ (Na+)-(Cl-) r_23 = 0.2514400314 nm
+ (Na+)-(Cl-) r_24 = 0.548783840737 nm
+ (Na+)-(Cl-) r_25 = 0.25294794682 nm
+ (Cl-)-(Cl-) r_34 = 0.442056037873 nm
+ (Cl-)-(Cl-) r_35 = 0.393000766506 nm
+ (Cl-)-(Cl-) r_45 = 0.432602479351 nm
+   0.240   0.136   0.188
+   0.637   0.072   0.162
+   0.453   0.101   0.584
+   0.250   0.134   0.438
+   0.430   0.105   0.035
+   0.637   0.072   0.414
+
+Warning: Maximum number of iterations has been exceeded.
+         Current function value: -12.189926
+         Iterations: 2400
+         Function evaluations: 2822
+         Gradient evaluations: 2822
+ Minimized potential energy = -12.1899259801 eV
+ (Na+)-(Na+) r_01 = 109.19223267 nm
+ (Na+)-(Na+) r_02 = 0.486259726514 nm
+ (Na+)-(Cl-) r_03 = 0.234404892232 nm
+ (Na+)-(Cl-) r_04 = 0.720676340007 nm
+ (Na+)-(Cl-) r_05 = 135.713413478 nm
+ (Na+)-(Na+) r_12 = 108.789108316 nm
+ (Na+)-(Cl-) r_13 = 108.997854321 nm
+ (Na+)-(Cl-) r_14 = 108.594846714 nm
+ (Na+)-(Cl-) r_15 = 230.886533848 nm
+ (Na+)-(Cl-) r_23 = 0.251854928634 nm
+ (Na+)-(Cl-) r_24 = 0.234417063638 nm
+ (Na+)-(Cl-) r_25 = 136.163874686 nm
+ (Cl-)-(Cl-) r_34 = 0.486271797428 nm
+ (Cl-)-(Cl-) r_35 = 135.930478054 nm
+ (Cl-)-(Cl-) r_45 = 136.381302512 nm
+   0.221   0.625   0.459
+-108.970   0.366   0.006
+  -0.181   0.533   0.201
+   0.027   0.581   0.335
+  -0.375   0.488   0.078
+ 105.024  72.157  48.601
+
+Warning: Desired error not necessarily achieved due to precision loss.
+         Current function value: -15.948276
+         Iterations: 297
+         Function evaluations: 455
+         Gradient evaluations: 443
+ Minimized potential energy = -15.9482755871 eV
+ (Na+)-(Na+) r_01 = 0.474704169892 nm
+ (Na+)-(Na+) r_02 = 0.488054235024 nm
+ (Na+)-(Cl-) r_03 = 0.248121200633 nm
+ (Na+)-(Cl-) r_04 = 1.59840416259 nm
+ (Na+)-(Cl-) r_05 = 0.249863827501 nm
+ (Na+)-(Na+) r_12 = 0.862205339284 nm
+ (Na+)-(Cl-) r_13 = 0.234296155333 nm
+ (Na+)-(Cl-) r_14 = 1.90204331816 nm
+ (Na+)-(Cl-) r_15 = 0.662508637934 nm
+ (Na+)-(Cl-) r_23 = 0.690819620295 nm
+ (Na+)-(Cl-) r_24 = 1.2097141 nm
+ (Na+)-(Cl-) r_25 = 0.239114848729 nm
+ (Cl-)-(Cl-) r_34 = 1.77073923166 nm
+ (Cl-)-(Cl-) r_35 = 0.467222756817 nm
+ (Cl-)-(Cl-) r_45 = 1.38517637992 nm
+   0.544   0.052   0.668
+   0.759   0.332   0.350
+   0.207  -0.290   0.580
+   0.676   0.215   0.536
+  -1.002  -0.349   0.587
+   0.363  -0.117   0.635
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 374
+         Function evaluations: 544
+         Gradient evaluations: 544
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843152555 nm
+ (Na+)-(Na+) r_02 = 0.425843153407 nm
+ (Na+)-(Cl-) r_03 = 0.245860658854 nm
+ (Na+)-(Cl-) r_04 = 0.491721317501 nm
+ (Na+)-(Cl-) r_05 = 0.245860658874 nm
+ (Na+)-(Na+) r_12 = 0.425843153234 nm
+ (Na+)-(Cl-) r_13 = 0.245860658969 nm
+ (Na+)-(Cl-) r_14 = 0.245860658902 nm
+ (Na+)-(Cl-) r_15 = 0.491721316874 nm
+ (Na+)-(Cl-) r_23 = 0.491721318707 nm
+ (Na+)-(Cl-) r_24 = 0.245860658891 nm
+ (Na+)-(Cl-) r_25 = 0.245860658593 nm
+ (Cl-)-(Cl-) r_34 = 0.425843152921 nm
+ (Cl-)-(Cl-) r_35 = 0.425843152477 nm
+ (Cl-)-(Cl-) r_45 = 0.425843151639 nm
+   0.425   0.415   0.675
+   0.022   0.477   0.552
+   0.255   0.171   0.371
+   0.213   0.538   0.694
+   0.043   0.294   0.390
+   0.446   0.232   0.513
+
+Optimization terminated successfully.
+         Current function value: -20.548097
+         Iterations: 88
+         Function evaluations: 117
+         Gradient evaluations: 117
+ Minimized potential energy = -20.5480972465 eV
+ (Na+)-(Na+) r_01 = 0.422359385158 nm
+ (Na+)-(Na+) r_02 = 0.438354487739 nm
+ (Na+)-(Cl-) r_03 = 0.245952403784 nm
+ (Na+)-(Cl-) r_04 = 0.498992269301 nm
+ (Na+)-(Cl-) r_05 = 0.247274824171 nm
+ (Na+)-(Na+) r_12 = 0.42451431685 nm
+ (Na+)-(Cl-) r_13 = 0.245945545953 nm
+ (Na+)-(Cl-) r_14 = 0.246121543963 nm
+ (Na+)-(Cl-) r_15 = 0.476813699898 nm
+ (Na+)-(Cl-) r_23 = 0.502284797013 nm
+ (Na+)-(Cl-) r_24 = 0.246155535053 nm
+ (Na+)-(Cl-) r_25 = 0.247305427184 nm
+ (Cl-)-(Cl-) r_34 = 0.433665227951 nm
+ (Cl-)-(Cl-) r_35 = 0.421650742907 nm
+ (Cl-)-(Cl-) r_45 = 0.419814254595 nm
+   0.191   0.633   0.612
+   0.568   0.619   0.422
+   0.223   0.632   0.175
+   0.437   0.624   0.629
+   0.468   0.623   0.197
+   0.093   0.636   0.385
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 102
+         Function evaluations: 132
+         Gradient evaluations: 132
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843153509 nm
+ (Na+)-(Na+) r_02 = 0.425843151945 nm
+ (Na+)-(Cl-) r_03 = 0.491721317018 nm
+ (Na+)-(Cl-) r_04 = 0.245860658599 nm
+ (Na+)-(Cl-) r_05 = 0.245860660416 nm
+ (Na+)-(Na+) r_12 = 0.425843154636 nm
+ (Na+)-(Cl-) r_13 = 0.245860658675 nm
+ (Na+)-(Cl-) r_14 = 0.491721319315 nm
+ (Na+)-(Cl-) r_15 = 0.245860660058 nm
+ (Na+)-(Cl-) r_23 = 0.245860660548 nm
+ (Na+)-(Cl-) r_24 = 0.245860658259 nm
+ (Na+)-(Cl-) r_25 = 0.491721320223 nm
+ (Cl-)-(Cl-) r_34 = 0.425843153236 nm
+ (Cl-)-(Cl-) r_35 = 0.425843153718 nm
+ (Cl-)-(Cl-) r_45 = 0.425843155207 nm
+   0.522   0.622   0.479
+   0.899   0.620   0.281
+   0.705   0.252   0.372
+   0.895   0.374   0.276
+   0.518   0.376   0.474
+   0.713   0.744   0.382
+
+Optimization terminated successfully.
+         Current function value: -19.844153
+         Iterations: 67
+         Function evaluations: 90
+         Gradient evaluations: 90
+ Minimized potential energy = -19.844152621 eV
+ (Na+)-(Na+) r_01 = 0.629705734921 nm
+ (Na+)-(Na+) r_02 = 0.366745665383 nm
+ (Na+)-(Cl-) r_03 = 0.26350279152 nm
+ (Na+)-(Cl-) r_04 = 0.243154829324 nm
+ (Na+)-(Cl-) r_05 = 0.590585604605 nm
+ (Na+)-(Na+) r_12 = 0.406021961022 nm
+ (Na+)-(Cl-) r_13 = 0.372304705612 nm
+ (Na+)-(Cl-) r_14 = 0.640448775161 nm
+ (Na+)-(Cl-) r_15 = 0.238028773711 nm
+ (Na+)-(Cl-) r_23 = 0.268579887081 nm
+ (Na+)-(Cl-) r_24 = 0.255204061135 nm
+ (Na+)-(Cl-) r_25 = 0.25606047683 nm
+ (Cl-)-(Cl-) r_34 = 0.361383231438 nm
+ (Cl-)-(Cl-) r_35 = 0.391505799586 nm
+ (Cl-)-(Cl-) r_45 = 0.510995983047 nm
+   0.058   0.613   0.261
+   0.058   0.099   0.625
+   0.276   0.349   0.392
+   0.015   0.406   0.419
+   0.293   0.555   0.242
+   0.276   0.140   0.540
+
+Optimization terminated successfully.
+         Current function value: -18.509434
+         Iterations: 967
+         Function evaluations: 1275
+         Gradient evaluations: 1275
+ Minimized potential energy = -18.509433501 eV
+ (Na+)-(Na+) r_01 = 124.585803348 nm
+ (Na+)-(Na+) r_02 = 0.350108813711 nm
+ (Na+)-(Cl-) r_03 = 0.247564318949 nm
+ (Na+)-(Cl-) r_04 = 124.36540976 nm
+ (Na+)-(Cl-) r_05 = 0.247564315311 nm
+ (Na+)-(Na+) r_12 = 124.28815682 nm
+ (Na+)-(Cl-) r_13 = 124.406808668 nm
+ (Na+)-(Cl-) r_14 = 0.228382616096 nm
+ (Na+)-(Cl-) r_15 = 124.467322134 nm
+ (Na+)-(Cl-) r_23 = 0.24756431819 nm
+ (Na+)-(Cl-) r_24 = 124.067732065 nm
+ (Na+)-(Cl-) r_25 = 0.247564319345 nm
+ (Cl-)-(Cl-) r_34 = 124.186482434 nm
+ (Cl-)-(Cl-) r_35 = 0.350108818294 nm
+ (Cl-)-(Cl-) r_45 = 124.246830406 nm
+   0.278   0.324   0.496
+-124.308   0.517   0.479
+  -0.020   0.152   0.430
+   0.099   0.225   0.635
+-124.087   0.517   0.419
+   0.159   0.250   0.291
+
+Optimization terminated successfully.
+         Current function value: -20.409517
+         Iterations: 66
+         Function evaluations: 90
+         Gradient evaluations: 90
+ Minimized potential energy = -20.409516807 eV
+ (Na+)-(Na+) r_01 = 0.502750822243 nm
+ (Na+)-(Na+) r_02 = 0.394978578364 nm
+ (Na+)-(Cl-) r_03 = 0.257446902343 nm
+ (Na+)-(Cl-) r_04 = 0.545712725387 nm
+ (Na+)-(Cl-) r_05 = 0.244916851363 nm
+ (Na+)-(Na+) r_12 = 0.400837350645 nm
+ (Na+)-(Cl-) r_13 = 0.258239833301 nm
+ (Na+)-(Cl-) r_14 = 0.245663074093 nm
+ (Na+)-(Cl-) r_15 = 0.553106220334 nm
+ (Na+)-(Cl-) r_23 = 0.365842973152 nm
+ (Na+)-(Cl-) r_24 = 0.248955274244 nm
+ (Na+)-(Cl-) r_25 = 0.248246372987 nm
+ (Cl-)-(Cl-) r_34 = 0.3840775363 nm
+ (Cl-)-(Cl-) r_35 = 0.388537417674 nm
+ (Cl-)-(Cl-) r_45 = 0.480749488388 nm
+   0.093   0.038   0.418
+   0.093   0.481   0.655
+   0.093   0.401   0.263
+   0.093   0.232   0.587
+   0.093   0.584   0.432
+   0.093   0.160   0.205
+
+Optimization terminated successfully.
+         Current function value: -18.509434
+         Iterations: 624
+         Function evaluations: 782
+         Gradient evaluations: 782
+ Minimized potential energy = -18.5094335007 eV
+ (Na+)-(Na+) r_01 = 0.350108816847 nm
+ (Na+)-(Na+) r_02 = 140.538955016 nm
+ (Na+)-(Cl-) r_03 = 0.247564318417 nm
+ (Na+)-(Cl-) r_04 = 0.247564318411 nm
+ (Na+)-(Cl-) r_05 = 140.583750984 nm
+ (Na+)-(Na+) r_12 = 140.831808291 nm
+ (Na+)-(Cl-) r_13 = 0.247564318753 nm
+ (Na+)-(Cl-) r_14 = 0.247564317993 nm
+ (Na+)-(Cl-) r_15 = 140.876713221 nm
+ (Na+)-(Cl-) r_23 = 140.735955468 nm
+ (Na+)-(Cl-) r_24 = 140.634942108 nm
+ (Na+)-(Cl-) r_25 = 0.228382617754 nm
+ (Cl-)-(Cl-) r_34 = 0.350108816417 nm
+ (Cl-)-(Cl-) r_35 = 140.780983053 nm
+ (Cl-)-(Cl-) r_45 = 140.679615364 nm
+   0.551   0.191   0.368
+   0.246   0.117   0.214
+ 139.789 -18.892   0.340
+   0.371   0.325   0.265
+   0.426  -0.017   0.318
+ 139.817 -19.017   0.529
+
+Optimization terminated successfully.
+         Current function value: -19.415053
+         Iterations: 100
+         Function evaluations: 147
+         Gradient evaluations: 147
+ Minimized potential energy = -19.4150534751 eV
+ (Na+)-(Na+) r_01 = 0.56398639867 nm
+ (Na+)-(Na+) r_02 = 0.393283338346 nm
+ (Na+)-(Cl-) r_03 = 0.246186375875 nm
+ (Na+)-(Cl-) r_04 = 0.25930706041 nm
+ (Na+)-(Cl-) r_05 = 0.49401263672 nm
+ (Na+)-(Na+) r_12 = 0.53243588659 nm
+ (Na+)-(Cl-) r_13 = 0.657850450746 nm
+ (Na+)-(Cl-) r_14 = 0.335500043905 nm
+ (Na+)-(Cl-) r_15 = 0.272869370339 nm
+ (Na+)-(Cl-) r_23 = 0.244106376231 nm
+ (Na+)-(Cl-) r_24 = 0.455375539641 nm
+ (Na+)-(Cl-) r_25 = 0.289139334322 nm
+ (Cl-)-(Cl-) r_34 = 0.443002031823 nm
+ (Cl-)-(Cl-) r_35 = 0.480292943154 nm
+ (Cl-)-(Cl-) r_45 = 0.383340975541 nm
+   0.372   0.585   0.656
+   0.372   0.318   0.158
+   0.372   0.192   0.676
+   0.372   0.395   0.812
+   0.372   0.553   0.398
+   0.372   0.170   0.387
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 77
+         Function evaluations: 101
+         Gradient evaluations: 101
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843152946 nm
+ (Na+)-(Na+) r_02 = 0.425843153362 nm
+ (Na+)-(Cl-) r_03 = 0.245860659123 nm
+ (Na+)-(Cl-) r_04 = 0.245860658774 nm
+ (Na+)-(Cl-) r_05 = 0.491721319673 nm
+ (Na+)-(Na+) r_12 = 0.425843151206 nm
+ (Na+)-(Cl-) r_13 = 0.245860658795 nm
+ (Na+)-(Cl-) r_14 = 0.491721316449 nm
+ (Na+)-(Cl-) r_15 = 0.245860658602 nm
+ (Na+)-(Cl-) r_23 = 0.491721317154 nm
+ (Na+)-(Cl-) r_24 = 0.24586065916 nm
+ (Na+)-(Cl-) r_25 = 0.245860658822 nm
+ (Cl-)-(Cl-) r_34 = 0.425843151993 nm
+ (Cl-)-(Cl-) r_35 = 0.425843153565 nm
+ (Cl-)-(Cl-) r_45 = 0.425843153496 nm
+   0.525   0.268   0.208
+   0.215   0.289   0.499
+   0.125   0.169   0.100
+   0.452   0.314   0.438
+   0.362   0.195   0.039
+   0.052   0.216   0.330
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 47
+         Function evaluations: 62
+         Gradient evaluations: 62
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.42584315325 nm
+ (Na+)-(Na+) r_02 = 0.425843153572 nm
+ (Na+)-(Cl-) r_03 = 0.245860658942 nm
+ (Na+)-(Cl-) r_04 = 0.24586065902 nm
+ (Na+)-(Cl-) r_05 = 0.491721318711 nm
+ (Na+)-(Na+) r_12 = 0.425843153102 nm
+ (Na+)-(Cl-) r_13 = 0.491721318096 nm
+ (Na+)-(Cl-) r_14 = 0.245860659085 nm
+ (Na+)-(Cl-) r_15 = 0.245860659094 nm
+ (Na+)-(Cl-) r_23 = 0.245860659611 nm
+ (Na+)-(Cl-) r_24 = 0.491721318206 nm
+ (Na+)-(Cl-) r_25 = 0.245860659261 nm
+ (Cl-)-(Cl-) r_34 = 0.425843152785 nm
+ (Cl-)-(Cl-) r_35 = 0.425843153602 nm
+ (Cl-)-(Cl-) r_45 = 0.425843153266 nm
+   0.592   0.453   0.312
+   0.268   0.196   0.414
+   0.600   0.044   0.195
+   0.705   0.266   0.199
+   0.374   0.418   0.419
+   0.382   0.009   0.302
+
+Optimization terminated successfully.
+         Current function value: -18.976476
+         Iterations: 102
+         Function evaluations: 121
+         Gradient evaluations: 121
+ Minimized potential energy = -18.9764762706 eV
+ (Na+)-(Na+) r_01 = 0.346170837241 nm
+ (Na+)-(Na+) r_02 = 0.589314432018 nm
+ (Na+)-(Cl-) r_03 = 0.254932972573 nm
+ (Na+)-(Cl-) r_04 = 0.25493297283 nm
+ (Na+)-(Cl-) r_05 = 0.35758591719 nm
+ (Na+)-(Na+) r_12 = 0.761337616499 nm
+ (Na+)-(Cl-) r_13 = 0.244706781619 nm
+ (Na+)-(Cl-) r_14 = 0.244706779921 nm
+ (Na+)-(Cl-) r_15 = 0.584282795714 nm
+ (Na+)-(Cl-) r_23 = 0.703620414421 nm
+ (Na+)-(Cl-) r_24 = 0.703620410653 nm
+ (Na+)-(Cl-) r_25 = 0.237035802369 nm
+ (Cl-)-(Cl-) r_34 = 0.357596667292 nm
+ (Cl-)-(Cl-) r_35 = 0.505773626608 nm
+ (Cl-)-(Cl-) r_45 = 0.505773623119 nm
+   0.187   0.517   0.088
+   0.390   0.242   0.034
+   0.144   0.576   0.672
+   0.435   0.482   0.039
+   0.147   0.270   0.039
+   0.138   0.584   0.436
+
+Warning: Desired error not necessarily achieved due to precision loss.
+         Current function value: -17.672154
+         Iterations: 232
+         Function evaluations: 324
+         Gradient evaluations: 314
+ Minimized potential energy = -17.672154226 eV
+ (Na+)-(Na+) r_01 = 0.534099139452 nm
+ (Na+)-(Na+) r_02 = 0.693405728489 nm
+ (Na+)-(Cl-) r_03 = 0.234661761829 nm
+ (Na+)-(Cl-) r_04 = 0.627681198441 nm
+ (Na+)-(Cl-) r_05 = 0.288167957426 nm
+ (Na+)-(Na+) r_12 = 0.770815735725 nm
+ (Na+)-(Cl-) r_13 = 0.768637575016 nm
+ (Na+)-(Cl-) r_14 = 0.556347959688 nm
+ (Na+)-(Cl-) r_15 = 0.24602347311 nm
+ (Na+)-(Cl-) r_23 = 0.784085462586 nm
+ (Na+)-(Cl-) r_24 = 0.244179856519 nm
+ (Na+)-(Cl-) r_25 = 0.685089493934 nm
+ (Cl-)-(Cl-) r_34 = 0.784098110779 nm
+ (Cl-)-(Cl-) r_35 = 0.522799196835 nm
+ (Cl-)-(Cl-) r_45 = 0.525150945855 nm
+   0.664   0.016   0.213
+   0.656   0.444   0.533
+   0.122  -0.104   0.628
+   0.675  -0.175   0.076
+   0.215   0.122   0.638
+   0.656   0.249   0.383
+
+Optimization terminated successfully.
+         Current function value: -18.509433
+         Iterations: 570
+         Function evaluations: 762
+         Gradient evaluations: 762
+ Minimized potential energy = -18.5094333722 eV
+ (Na+)-(Na+) r_01 = 0.350108810383 nm
+ (Na+)-(Na+) r_02 = 19.0664660058 nm
+ (Na+)-(Cl-) r_03 = 0.247564385681 nm
+ (Na+)-(Cl-) r_04 = 0.247564406555 nm
+ (Na+)-(Cl-) r_05 = 19.0219761382 nm
+ (Na+)-(Na+) r_12 = 18.9254161613 nm
+ (Na+)-(Cl-) r_13 = 0.247564233302 nm
+ (Na+)-(Cl-) r_14 = 0.247564250509 nm
+ (Na+)-(Cl-) r_15 = 18.8845775688 nm
+ (Na+)-(Cl-) r_23 = 19.0342857311 nm
+ (Na+)-(Cl-) r_24 = 18.9577821167 nm
+ (Na+)-(Cl-) r_25 = 0.228382615402 nm
+ (Cl-)-(Cl-) r_34 = 0.350108824627 nm
+ (Cl-)-(Cl-) r_35 = 18.9912490108 nm
+ (Cl-)-(Cl-) r_45 = 18.9154788636 nm
+   0.618   0.182   0.624
+   0.344   0.207   0.407
+  -7.830  17.275   0.647
+   0.383   0.104   0.628
+   0.579   0.286   0.402
+  -7.706  17.285   0.839
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 118
+         Function evaluations: 169
+         Gradient evaluations: 169
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843147857 nm
+ (Na+)-(Na+) r_02 = 0.425843164071 nm
+ (Na+)-(Cl-) r_03 = 0.245860657095 nm
+ (Na+)-(Cl-) r_04 = 0.24586065898 nm
+ (Na+)-(Cl-) r_05 = 0.491721327699 nm
+ (Na+)-(Na+) r_12 = 0.425843144337 nm
+ (Na+)-(Cl-) r_13 = 0.491721296683 nm
+ (Na+)-(Cl-) r_14 = 0.245860660355 nm
+ (Na+)-(Cl-) r_15 = 0.245860656006 nm
+ (Na+)-(Cl-) r_23 = 0.245860660343 nm
+ (Na+)-(Cl-) r_24 = 0.491721326663 nm
+ (Na+)-(Cl-) r_25 = 0.245860658266 nm
+ (Cl-)-(Cl-) r_34 = 0.425843145436 nm
+ (Cl-)-(Cl-) r_35 = 0.425843147497 nm
+ (Cl-)-(Cl-) r_45 = 0.425843163507 nm
+   0.597   0.560   0.605
+   0.783   0.287   0.336
+   0.499   0.146   0.620
+   0.470   0.375   0.704
+   0.754   0.516   0.420
+   0.656   0.102   0.435
+
+Optimization terminated successfully.
+         Current function value: -20.234056
+         Iterations: 711
+         Function evaluations: 889
+         Gradient evaluations: 889
+ Minimized potential energy = -20.2340563908 eV
+ (Na+)-(Na+) r_01 = 0.549495726533 nm
+ (Na+)-(Na+) r_02 = 0.364640379172 nm
+ (Na+)-(Cl-) r_03 = 0.561399064831 nm
+ (Na+)-(Cl-) r_04 = 0.267997886537 nm
+ (Na+)-(Cl-) r_05 = 0.241667868565 nm
+ (Na+)-(Na+) r_12 = 0.396941510325 nm
+ (Na+)-(Cl-) r_13 = 0.244311291523 nm
+ (Na+)-(Cl-) r_14 = 0.284140428852 nm
+ (Na+)-(Cl-) r_15 = 0.598075062364 nm
+ (Na+)-(Cl-) r_23 = 0.255850666066 nm
+ (Na+)-(Cl-) r_24 = 0.29051856478 nm
+ (Na+)-(Cl-) r_25 = 0.250874701469 nm
+ (Cl-)-(Cl-) r_34 = 0.359837555513 nm
+ (Cl-)-(Cl-) r_35 = 0.504801451435 nm
+ (Cl-)-(Cl-) r_45 = 0.376790142591 nm
+   0.135   0.480   0.649
+   0.135   0.671   0.133
+   0.135   0.815   0.503
+   0.135   0.882   0.256
+   0.135   0.547   0.389
+   0.135   0.708   0.730
+
+Optimization terminated successfully.
+         Current function value: -17.602598
+         Iterations: 1217
+         Function evaluations: 1601
+         Gradient evaluations: 1601
+ Minimized potential energy = -17.6025975046 eV
+ (Na+)-(Na+) r_01 = 0.486230313122 nm
+ (Na+)-(Na+) r_02 = 82.7546141875 nm
+ (Na+)-(Cl-) r_03 = 0.234395895054 nm
+ (Na+)-(Cl-) r_04 = 82.8556207883 nm
+ (Na+)-(Cl-) r_05 = 0.251834418522 nm
+ (Na+)-(Na+) r_12 = 82.8473468618 nm
+ (Na+)-(Cl-) r_13 = 0.720626208176 nm
+ (Na+)-(Cl-) r_14 = 82.9472686197 nm
+ (Na+)-(Cl-) r_15 = 0.2343958946 nm
+ (Na+)-(Cl-) r_23 = 82.7108946356 nm
+ (Na+)-(Cl-) r_24 = 0.228382618242 nm
+ (Na+)-(Cl-) r_25 = 82.802299981 nm
+ (Cl-)-(Cl-) r_34 = 82.8124238607 nm
+ (Cl-)-(Cl-) r_35 = 0.486230313576 nm
+ (Cl-)-(Cl-) r_45 = 82.9027448214 nm
+   0.609   0.276   0.607
+   0.520   0.337   0.133
+  32.822 -75.952   0.554
+   0.652   0.246   0.835
+  32.915 -76.022   0.358
+   0.563   0.308   0.361
+
+Optimization terminated successfully.
+         Current function value: -20.496323
+         Iterations: 75
+         Function evaluations: 102
+         Gradient evaluations: 102
+ Minimized potential energy = -20.4963232423 eV
+ (Na+)-(Na+) r_01 = 0.418243917744 nm
+ (Na+)-(Na+) r_02 = 0.409211759784 nm
+ (Na+)-(Cl-) r_03 = 0.247161264945 nm
+ (Na+)-(Cl-) r_04 = 0.246275108688 nm
+ (Na+)-(Cl-) r_05 = 0.430343224785 nm
+ (Na+)-(Na+) r_12 = 0.470595498553 nm
+ (Na+)-(Cl-) r_13 = 0.246614560252 nm
+ (Na+)-(Cl-) r_14 = 0.530777399072 nm
+ (Na+)-(Cl-) r_15 = 0.252164438282 nm
+ (Na+)-(Cl-) r_23 = 0.518137414512 nm
+ (Na+)-(Cl-) r_24 = 0.245529625954 nm
+ (Na+)-(Cl-) r_25 = 0.251705760587 nm
+ (Cl-)-(Cl-) r_34 = 0.455898881044 nm
+ (Cl-)-(Cl-) r_35 = 0.402270129585 nm
+ (Cl-)-(Cl-) r_45 = 0.40968629082 nm
+   0.535   0.196   0.419
+   0.468   0.499   0.138
+   0.456   0.552   0.606
+   0.521   0.262   0.181
+   0.509   0.314   0.634
+   0.443   0.613   0.362
+
+Warning: Desired error not necessarily achieved due to precision loss.
+         Current function value: -0.552169
+         Iterations: 2
+         Function evaluations: 29
+         Gradient evaluations: 17
+ Minimized potential energy = -0.552169088874 eV
+ (Na+)-(Na+) r_01 = 86.2374878208 nm
+ (Na+)-(Na+) r_02 = 40.6623562063 nm
+ (Na+)-(Cl-) r_03 = 8.99986135385 nm
+ (Na+)-(Cl-) r_04 = 3.03804501108 nm
+ (Na+)-(Cl-) r_05 = 32.2747688467 nm
+ (Na+)-(Na+) r_12 = 111.653830836 nm
+ (Na+)-(Cl-) r_13 = 77.3263562759 nm
+ (Na+)-(Cl-) r_14 = 89.0498989527 nm
+ (Na+)-(Cl-) r_15 = 78.6892321694 nm
+ (Na+)-(Cl-) r_23 = 45.7180179743 nm
+ (Na+)-(Cl-) r_24 = 39.1546460608 nm
+ (Na+)-(Cl-) r_25 = 49.094257639 nm
+ (Cl-)-(Cl-) r_34 = 11.9589349298 nm
+ (Cl-)-(Cl-) r_35 = 28.6964465072 nm
+ (Cl-)-(Cl-) r_45 = 34.3606278907 nm
+   0.269   0.471   0.528
+ -85.968   0.525   0.546
+  19.867  36.099   0.414
+  -8.651   0.389   1.721
+   3.074   0.743  -0.607
+ -12.975  11.841  27.675
+
+Warning: Desired error not necessarily achieved due to precision loss.
+         Current function value: -13.731297
+         Iterations: 169
+         Function evaluations: 256
+         Gradient evaluations: 244
+ Minimized potential energy = -13.7312971567 eV
+ (Na+)-(Na+) r_01 = 38.5561500739 nm
+ (Na+)-(Na+) r_02 = 0.356987381741 nm
+ (Na+)-(Cl-) r_03 = 161.777807807 nm
+ (Na+)-(Cl-) r_04 = 0.247820353076 nm
+ (Na+)-(Cl-) r_05 = 0.250606229465 nm
+ (Na+)-(Na+) r_12 = 38.6230617476 nm
+ (Na+)-(Cl-) r_13 = 139.856667365 nm
+ (Na+)-(Cl-) r_14 = 38.4261167166 nm
+ (Na+)-(Cl-) r_15 = 38.7530046575 nm
+ (Na+)-(Cl-) r_23 = 162.007466067 nm
+ (Na+)-(Cl-) r_24 = 0.250426969245 nm
+ (Na+)-(Cl-) r_25 = 0.248101242283 nm
+ (Cl-)-(Cl-) r_34 = 161.830290612 nm
+ (Cl-)-(Cl-) r_35 = 161.955839998 nm
+ (Cl-)-(Cl-) r_45 = 0.34791524655 nm
+   0.397   0.023   0.464
+  38.952   0.168   0.112
+   0.329   0.017   0.114
+ 105.856  89.569  84.321
+   0.526  -0.032   0.260
+   0.199   0.072   0.319
+
+Optimization terminated successfully.
+         Current function value: -20.514470
+         Iterations: 76
+         Function evaluations: 95
+         Gradient evaluations: 95
+ Minimized potential energy = -20.5144697719 eV
+ (Na+)-(Na+) r_01 = 0.46291897947 nm
+ (Na+)-(Na+) r_02 = 0.416306224359 nm
+ (Na+)-(Cl-) r_03 = 0.246087598689 nm
+ (Na+)-(Cl-) r_04 = 0.51876370819 nm
+ (Na+)-(Cl-) r_05 = 0.250653548387 nm
+ (Na+)-(Na+) r_12 = 0.41630620482 nm
+ (Na+)-(Cl-) r_13 = 0.518763675926 nm
+ (Na+)-(Cl-) r_14 = 0.246087599732 nm
+ (Na+)-(Cl-) r_15 = 0.250653548529 nm
+ (Na+)-(Cl-) r_23 = 0.246470080664 nm
+ (Na+)-(Cl-) r_24 = 0.246470080296 nm
+ (Na+)-(Cl-) r_25 = 0.442227063341 nm
+ (Cl-)-(Cl-) r_34 = 0.450525191149 nm
+ (Cl-)-(Cl-) r_35 = 0.409692570012 nm
+ (Cl-)-(Cl-) r_45 = 0.409692591292 nm
+   0.085   0.409   0.258
+   0.085   0.014   0.500
+   0.418   0.262   0.461
+   0.321   0.439   0.320
+   0.321   0.055   0.555
+  -0.007   0.198   0.356
+
+Optimization terminated successfully.
+         Current function value: -20.089829
+         Iterations: 263
+         Function evaluations: 314
+         Gradient evaluations: 314
+ Minimized potential energy = -20.0898290876 eV
+ (Na+)-(Na+) r_01 = 0.367740315912 nm
+ (Na+)-(Na+) r_02 = 0.391524300921 nm
+ (Na+)-(Cl-) r_03 = 0.274952826319 nm
+ (Na+)-(Cl-) r_04 = 0.253096898083 nm
+ (Na+)-(Cl-) r_05 = 0.255949503266 nm
+ (Na+)-(Na+) r_12 = 0.580663905797 nm
+ (Na+)-(Cl-) r_13 = 0.277319940566 nm
+ (Na+)-(Cl-) r_14 = 0.241400073902 nm
+ (Na+)-(Cl-) r_15 = 0.580804737362 nm
+ (Na+)-(Cl-) r_23 = 0.306559749432 nm
+ (Na+)-(Cl-) r_24 = 0.608460859717 nm
+ (Na+)-(Cl-) r_25 = 0.241460171111 nm
+ (Cl-)-(Cl-) r_34 = 0.371352891045 nm
+ (Cl-)-(Cl-) r_35 = 0.369021881647 nm
+ (Cl-)-(Cl-) r_45 = 0.508901921877 nm
+   0.060   0.038   0.330
+   0.320   0.106   0.581
+   0.268   0.092   0.003
+   0.325   0.107   0.304
+   0.087   0.045   0.582
+   0.044   0.034   0.075
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 112
+         Function evaluations: 166
+         Gradient evaluations: 166
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843147417 nm
+ (Na+)-(Na+) r_02 = 0.425843153484 nm
+ (Na+)-(Cl-) r_03 = 0.491721310155 nm
+ (Na+)-(Cl-) r_04 = 0.245860658706 nm
+ (Na+)-(Cl-) r_05 = 0.245860659568 nm
+ (Na+)-(Na+) r_12 = 0.425843158115 nm
+ (Na+)-(Cl-) r_13 = 0.245860659757 nm
+ (Na+)-(Cl-) r_14 = 0.491721317028 nm
+ (Na+)-(Cl-) r_15 = 0.245860659841 nm
+ (Na+)-(Cl-) r_23 = 0.245860659248 nm
+ (Na+)-(Cl-) r_24 = 0.245860659152 nm
+ (Na+)-(Cl-) r_25 = 0.491721329088 nm
+ (Cl-)-(Cl-) r_34 = 0.425843148076 nm
+ (Cl-)-(Cl-) r_35 = 0.42584315573 nm
+ (Cl-)-(Cl-) r_45 = 0.425843158934 nm
+   0.364   0.197   0.591
+   0.606   0.514   0.443
+   0.770   0.123   0.486
+   0.796   0.359   0.422
+   0.554   0.042   0.570
+   0.390   0.433   0.528
+
+Optimization terminated successfully.
+         Current function value: -19.214965
+         Iterations: 93
+         Function evaluations: 125
+         Gradient evaluations: 125
+ Minimized potential energy = -19.2149648589 eV
+ (Na+)-(Na+) r_01 = 0.54862494712 nm
+ (Na+)-(Na+) r_02 = 0.563666777177 nm
+ (Na+)-(Cl-) r_03 = 0.231435740832 nm
+ (Na+)-(Cl-) r_04 = 0.322573864343 nm
+ (Na+)-(Cl-) r_05 = 0.687238731105 nm
+ (Na+)-(Na+) r_12 = 0.364526957795 nm
+ (Na+)-(Cl-) r_13 = 0.762965622078 nm
+ (Na+)-(Cl-) r_14 = 0.270715751363 nm
+ (Na+)-(Cl-) r_15 = 0.243974286576 nm
+ (Na+)-(Cl-) r_23 = 0.79157764272 nm
+ (Na+)-(Cl-) r_24 = 0.27496280351 nm
+ (Na+)-(Cl-) r_25 = 0.243547139852 nm
+ (Cl-)-(Cl-) r_34 = 0.553282781337 nm
+ (Cl-)-(Cl-) r_35 = 0.917181063329 nm
+ (Cl-)-(Cl-) r_45 = 0.364894845424 nm
+   0.681   0.475   0.598
+   0.681   0.028   0.280
+   0.681   0.316   0.057
+   0.681   0.585   0.802
+   0.681   0.294   0.331
+   0.681   0.073   0.041
+
+Optimization terminated successfully.
+         Current function value: -19.151305
+         Iterations: 91
+         Function evaluations: 110
+         Gradient evaluations: 110
+ Minimized potential energy = -19.1513053935 eV
+ (Na+)-(Na+) r_01 = 0.489804690143 nm
+ (Na+)-(Na+) r_02 = 0.485017732986 nm
+ (Na+)-(Cl-) r_03 = 0.249372525715 nm
+ (Na+)-(Cl-) r_04 = 0.240438145847 nm
+ (Na+)-(Cl-) r_05 = 0.725445599241 nm
+ (Na+)-(Na+) r_12 = 0.974730909831 nm
+ (Na+)-(Cl-) r_13 = 0.73913550623 nm
+ (Na+)-(Cl-) r_14 = 0.249374199871 nm
+ (Na+)-(Cl-) r_15 = 0.235651765125 nm
+ (Na+)-(Cl-) r_23 = 0.235651461575 nm
+ (Na+)-(Cl-) r_24 = 0.725417992387 nm
+ (Na+)-(Cl-) r_25 = 1.21032185879 nm
+ (Cl-)-(Cl-) r_34 = 0.48979344913 nm
+ (Cl-)-(Cl-) r_35 = 0.974754124584 nm
+ (Cl-)-(Cl-) r_45 = 0.485023642396 nm
+   0.248   0.527   0.395
+  -0.028   0.125   0.440
+   0.521   0.927   0.364
+   0.388   0.733   0.378
+   0.112   0.330   0.416
+  -0.160  -0.069   0.464
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 112
+         Function evaluations: 145
+         Gradient evaluations: 145
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843153106 nm
+ (Na+)-(Na+) r_02 = 0.4258431527 nm
+ (Na+)-(Cl-) r_03 = 0.245860659228 nm
+ (Na+)-(Cl-) r_04 = 0.491721316891 nm
+ (Na+)-(Cl-) r_05 = 0.245860658384 nm
+ (Na+)-(Na+) r_12 = 0.425843154634 nm
+ (Na+)-(Cl-) r_13 = 0.491721319322 nm
+ (Na+)-(Cl-) r_14 = 0.245860659619 nm
+ (Na+)-(Cl-) r_15 = 0.245860659257 nm
+ (Na+)-(Cl-) r_23 = 0.245860658743 nm
+ (Na+)-(Cl-) r_24 = 0.24586065927 nm
+ (Na+)-(Cl-) r_25 = 0.491721318289 nm
+ (Cl-)-(Cl-) r_34 = 0.425843152591 nm
+ (Cl-)-(Cl-) r_35 = 0.425843153166 nm
+ (Cl-)-(Cl-) r_45 = 0.425843152493 nm
+   0.045   0.404   0.404
+   0.407   0.593   0.282
+   0.407   0.181   0.389
+   0.166   0.192   0.434
+   0.528   0.381   0.313
+   0.165   0.605   0.327
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 112
+         Function evaluations: 164
+         Gradient evaluations: 164
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843146898 nm
+ (Na+)-(Na+) r_02 = 0.425843151021 nm
+ (Na+)-(Cl-) r_03 = 0.491721318139 nm
+ (Na+)-(Cl-) r_04 = 0.24586065811 nm
+ (Na+)-(Cl-) r_05 = 0.245860658367 nm
+ (Na+)-(Na+) r_12 = 0.425843150868 nm
+ (Na+)-(Cl-) r_13 = 0.245860659669 nm
+ (Na+)-(Cl-) r_14 = 0.491721313976 nm
+ (Na+)-(Cl-) r_15 = 0.24586065741 nm
+ (Na+)-(Cl-) r_23 = 0.245860660673 nm
+ (Na+)-(Cl-) r_24 = 0.245860658335 nm
+ (Na+)-(Cl-) r_25 = 0.49172132045 nm
+ (Cl-)-(Cl-) r_34 = 0.425843154683 nm
+ (Cl-)-(Cl-) r_35 = 0.425843157308 nm
+ (Cl-)-(Cl-) r_45 = 0.425843154557 nm
+   0.453   0.635   0.032
+   0.055   0.542   0.149
+   0.383   0.398   0.379
+   0.141   0.415   0.341
+   0.539   0.509   0.224
+   0.211   0.652  -0.005
+
+Optimization terminated successfully.
+         Current function value: -19.700922
+         Iterations: 121
+         Function evaluations: 144
+         Gradient evaluations: 144
+ Minimized potential energy = -19.7009224334 eV
+ (Na+)-(Na+) r_01 = 0.673857451455 nm
+ (Na+)-(Na+) r_02 = 0.361803861184 nm
+ (Na+)-(Cl-) r_03 = 0.593491888891 nm
+ (Na+)-(Cl-) r_04 = 0.253985989301 nm
+ (Na+)-(Cl-) r_05 = 0.243811882079 nm
+ (Na+)-(Na+) r_12 = 0.42456962643 nm
+ (Na+)-(Cl-) r_13 = 0.236419158031 nm
+ (Na+)-(Cl-) r_14 = 0.430866844805 nm
+ (Na+)-(Cl-) r_15 = 0.670631975019 nm
+ (Na+)-(Cl-) r_23 = 0.25653084008 nm
+ (Na+)-(Cl-) r_24 = 0.266142678887 nm
+ (Na+)-(Cl-) r_25 = 0.255728211193 nm
+ (Cl-)-(Cl-) r_34 = 0.407250707957 nm
+ (Cl-)-(Cl-) r_35 = 0.510603273285 nm
+ (Cl-)-(Cl-) r_45 = 0.358857658601 nm
+   0.386   0.278   0.688
+   0.386   0.026   0.063
+   0.432  -0.017   0.483
+   0.433  -0.116   0.247
+   0.373   0.239   0.438
+   0.441   0.044   0.731
+
+Optimization terminated successfully.
+         Current function value: -20.221958
+         Iterations: 2061
+         Function evaluations: 2631
+         Gradient evaluations: 2631
+ Minimized potential energy = -20.2219583945 eV
+ (Na+)-(Na+) r_01 = 0.410879583249 nm
+ (Na+)-(Na+) r_02 = 0.361031493925 nm
+ (Na+)-(Cl-) r_03 = 0.304894298462 nm
+ (Na+)-(Cl-) r_04 = 0.249169785411 nm
+ (Na+)-(Cl-) r_05 = 0.257153338515 nm
+ (Na+)-(Na+) r_12 = 0.541590601905 nm
+ (Na+)-(Cl-) r_13 = 0.282323234086 nm
+ (Na+)-(Cl-) r_14 = 0.603755037662 nm
+ (Na+)-(Cl-) r_15 = 0.246769143839 nm
+ (Na+)-(Cl-) r_23 = 0.262579394336 nm
+ (Na+)-(Cl-) r_24 = 0.241736677354 nm
+ (Na+)-(Cl-) r_25 = 0.546565429384 nm
+ (Cl-)-(Cl-) r_34 = 0.384715959688 nm
+ (Cl-)-(Cl-) r_35 = 0.355407025915 nm
+ (Cl-)-(Cl-) r_45 = 0.502152625869 nm
+   0.100   0.488   0.550
+   0.222   0.586   0.170
+   0.361   0.700   0.680
+   0.316   0.663   0.424
+   0.188   0.559   0.772
+   0.058   0.453   0.298
+
+Warning: Desired error not necessarily achieved due to precision loss.
+         Current function value: -14.083828
+         Iterations: 130
+         Function evaluations: 208
+         Gradient evaluations: 196
+ Minimized potential energy = -14.0838280252 eV
+ (Na+)-(Na+) r_01 = 1.26828894357 nm
+ (Na+)-(Na+) r_02 = 0.433332852877 nm
+ (Na+)-(Cl-) r_03 = 0.281290483355 nm
+ (Na+)-(Cl-) r_04 = 0.273739681395 nm
+ (Na+)-(Cl-) r_05 = 12.4717868034 nm
+ (Na+)-(Na+) r_12 = 1.30609748924 nm
+ (Na+)-(Cl-) r_13 = 1.31652293125 nm
+ (Na+)-(Cl-) r_14 = 1.23727386752 nm
+ (Na+)-(Cl-) r_15 = 11.8288990822 nm
+ (Na+)-(Cl-) r_23 = 0.274858048807 nm
+ (Na+)-(Cl-) r_24 = 0.278395065288 nm
+ (Na+)-(Cl-) r_25 = 12.2832909424 nm
+ (Cl-)-(Cl-) r_34 = 0.345346795938 nm
+ (Cl-)-(Cl-) r_35 = 12.2674691501 nm
+ (Cl-)-(Cl-) r_45 = 12.4786368346 nm
+   0.492   0.126   0.089
+  -0.722   0.479   0.195
+   0.490   0.117   0.522
+   0.574   0.275   0.313
+   0.403  -0.025   0.299
+  -3.054  10.584   5.886
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 703
+         Function evaluations: 926
+         Gradient evaluations: 926
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843151082 nm
+ (Na+)-(Na+) r_02 = 0.425843154942 nm
+ (Na+)-(Cl-) r_03 = 0.245860660116 nm
+ (Na+)-(Cl-) r_04 = 0.245860657345 nm
+ (Na+)-(Cl-) r_05 = 0.491721316352 nm
+ (Na+)-(Na+) r_12 = 0.425843156697 nm
+ (Na+)-(Cl-) r_13 = 0.245860659605 nm
+ (Na+)-(Cl-) r_14 = 0.491721314688 nm
+ (Na+)-(Cl-) r_15 = 0.245860660238 nm
+ (Na+)-(Cl-) r_23 = 0.491721325191 nm
+ (Na+)-(Cl-) r_24 = 0.245860658558 nm
+ (Na+)-(Cl-) r_25 = 0.24586066037 nm
+ (Cl-)-(Cl-) r_34 = 0.425843153629 nm
+ (Cl-)-(Cl-) r_35 = 0.425843155965 nm
+ (Cl-)-(Cl-) r_45 = 0.425843149373 nm
+   0.422   0.243   0.119
+   0.092   0.303   0.382
+   0.426   0.566   0.396
+   0.201   0.175   0.202
+   0.534   0.439   0.216
+   0.205   0.498   0.479
+
+Optimization terminated successfully.
+         Current function value: -19.348544
+         Iterations: 479
+         Function evaluations: 587
+         Gradient evaluations: 587
+ Minimized potential energy = -19.3485439357 eV
+ (Na+)-(Na+) r_01 = 0.571110947779 nm
+ (Na+)-(Na+) r_02 = 0.534077993247 nm
+ (Na+)-(Cl-) r_03 = 0.270356772523 nm
+ (Na+)-(Cl-) r_04 = 0.666236094464 nm
+ (Na+)-(Cl-) r_05 = 0.34721338985 nm
+ (Na+)-(Na+) r_12 = 0.387686858565 nm
+ (Na+)-(Cl-) r_13 = 0.495362587013 nm
+ (Na+)-(Cl-) r_14 = 0.245836530374 nm
+ (Na+)-(Cl-) r_15 = 0.255750744516 nm
+ (Na+)-(Cl-) r_23 = 0.292635360286 nm
+ (Na+)-(Cl-) r_24 = 0.243335967731 nm
+ (Na+)-(Cl-) r_25 = 0.450566963424 nm
+ (Cl-)-(Cl-) r_34 = 0.486571269042 nm
+ (Cl-)-(Cl-) r_35 = 0.385289268048 nm
+ (Cl-)-(Cl-) r_45 = 0.442241585877 nm
+   0.592   0.114   0.138
+   0.592   0.353   0.657
+   0.592  -0.034   0.651
+   0.592  -0.043   0.359
+   0.592   0.156   0.803
+   0.592   0.340   0.401
+
+Warning: Maximum number of iterations has been exceeded.
+         Current function value: -17.602600
+         Iterations: 2400
+         Function evaluations: 2970
+         Gradient evaluations: 2969
+ Minimized potential energy = -17.6025997798 eV
+ (Na+)-(Na+) r_01 = 46.943392936 nm
+ (Na+)-(Na+) r_02 = 0.486231097271 nm
+ (Na+)-(Cl-) r_03 = 0.251834479597 nm
+ (Na+)-(Cl-) r_04 = 47.1347791071 nm
+ (Na+)-(Cl-) r_05 = 0.234395589209 nm
+ (Na+)-(Na+) r_12 = 47.3815007017 nm
+ (Na+)-(Cl-) r_13 = 47.1701866205 nm
+ (Na+)-(Cl-) r_14 = 0.228382780867 nm
+ (Na+)-(Cl-) r_15 = 46.7325317761 nm
+ (Na+)-(Cl-) r_23 = 0.23439661795 nm
+ (Na+)-(Cl-) r_24 = 47.5723708152 nm
+ (Na+)-(Cl-) r_25 = 0.720626685751 nm
+ (Cl-)-(Cl-) r_34 = 47.3613047931 nm
+ (Cl-)-(Cl-) r_35 = 0.486230068561 nm
+ (Cl-)-(Cl-) r_45 = 46.9241687726 nm
+   0.604   0.591   0.265
+ -46.340   0.633   0.203
+   1.041   0.499   0.074
+   0.830   0.543   0.166
+ -46.531   0.627   0.078
+   0.393   0.636   0.356
+
+Optimization terminated successfully.
+         Current function value: -19.382609
+         Iterations: 153
+         Function evaluations: 191
+         Gradient evaluations: 191
+ Minimized potential energy = -19.3826086431 eV
+ (Na+)-(Na+) r_01 = 0.785099820428 nm
+ (Na+)-(Na+) r_02 = 0.513636587827 nm
+ (Na+)-(Cl-) r_03 = 0.67864782678 nm
+ (Na+)-(Cl-) r_04 = 0.678647896641 nm
+ (Na+)-(Cl-) r_05 = 0.239226445061 nm
+ (Na+)-(Na+) r_12 = 0.356079161953 nm
+ (Na+)-(Cl-) r_13 = 0.244644036496 nm
+ (Na+)-(Cl-) r_14 = 0.244644036829 nm
+ (Na+)-(Cl-) r_15 = 0.589723842774 nm
+ (Na+)-(Cl-) r_23 = 0.259784939244 nm
+ (Na+)-(Cl-) r_24 = 0.259784941206 nm
+ (Na+)-(Cl-) r_25 = 0.279786673001 nm
+ (Cl-)-(Cl-) r_34 = 0.356180799209 nm
+ (Cl-)-(Cl-) r_35 = 0.475437535939 nm
+ (Cl-)-(Cl-) r_45 = 0.475437576494 nm
+   0.262   0.571   0.650
+   0.262   0.065   0.050
+   0.262   0.402   0.165
+   0.440   0.227   0.093
+   0.083   0.227   0.093
+   0.262   0.528   0.415
+
+Optimization terminated successfully.
+         Current function value: -20.434334
+         Iterations: 60
+         Function evaluations: 81
+         Gradient evaluations: 81
+ Minimized potential energy = -20.4343342264 eV
+ (Na+)-(Na+) r_01 = 0.389862645523 nm
+ (Na+)-(Na+) r_02 = 0.495317143333 nm
+ (Na+)-(Cl-) r_03 = 0.244381250295 nm
+ (Na+)-(Cl-) r_04 = 0.253869007603 nm
+ (Na+)-(Cl-) r_05 = 0.546743045681 nm
+ (Na+)-(Na+) r_12 = 0.389546891798 nm
+ (Na+)-(Cl-) r_13 = 0.247827693895 nm
+ (Na+)-(Cl-) r_14 = 0.356614266041 nm
+ (Na+)-(Cl-) r_15 = 0.247793603037 nm
+ (Na+)-(Cl-) r_23 = 0.546346449352 nm
+ (Na+)-(Cl-) r_24 = 0.253831356481 nm
+ (Na+)-(Cl-) r_25 = 0.244344126517 nm
+ (Cl-)-(Cl-) r_34 = 0.384855432301 nm
+ (Cl-)-(Cl-) r_35 = 0.482515253254 nm
+ (Cl-)-(Cl-) r_45 = 0.385097339627 nm
+   0.436   0.303   0.086
+   0.733   0.344   0.335
+   0.433   0.303   0.581
+   0.678   0.336   0.093
+   0.379   0.295   0.333
+   0.675   0.336   0.576
+
+Optimization terminated successfully.
+         Current function value: -20.441550
+         Iterations: 465
+         Function evaluations: 603
+         Gradient evaluations: 603
+ Minimized potential energy = -20.4415497073 eV
+ (Na+)-(Na+) r_01 = 0.476885754639 nm
+ (Na+)-(Na+) r_02 = 0.442292140077 nm
+ (Na+)-(Cl-) r_03 = 0.556362444276 nm
+ (Na+)-(Cl-) r_04 = 0.256110575875 nm
+ (Na+)-(Cl-) r_05 = 0.250799251286 nm
+ (Na+)-(Na+) r_12 = 0.399141148503 nm
+ (Na+)-(Cl-) r_13 = 0.24480538652 nm
+ (Na+)-(Cl-) r_14 = 0.253794455922 nm
+ (Na+)-(Cl-) r_15 = 0.49621777883 nm
+ (Na+)-(Cl-) r_23 = 0.24559629872 nm
+ (Na+)-(Cl-) r_24 = 0.437008737293 nm
+ (Na+)-(Cl-) r_25 = 0.250545751935 nm
+ (Cl-)-(Cl-) r_34 = 0.423517672451 nm
+ (Cl-)-(Cl-) r_35 = 0.453934274937 nm
+ (Cl-)-(Cl-) r_45 = 0.388367681977 nm
+   0.042   0.377   0.011
+   0.198   0.331   0.460
+  -0.179   0.443   0.389
+  -0.015   0.394   0.565
+   0.201   0.330   0.206
+  -0.165   0.439   0.139
+
+Warning: Desired error not necessarily achieved due to precision loss.
+         Current function value: -12.331415
+         Iterations: 46
+         Function evaluations: 106
+         Gradient evaluations: 94
+ Minimized potential energy = -12.331415245 eV
+ (Na+)-(Na+) r_01 = 88.707803208 nm
+ (Na+)-(Na+) r_02 = 1.00038060852 nm
+ (Na+)-(Cl-) r_03 = 0.912668591555 nm
+ (Na+)-(Cl-) r_04 = 131.10684995 nm
+ (Na+)-(Cl-) r_05 = 0.243014746149 nm
+ (Na+)-(Na+) r_12 = 87.839003551 nm
+ (Na+)-(Cl-) r_13 = 87.8498985138 nm
+ (Na+)-(Cl-) r_14 = 201.294812924 nm
+ (Na+)-(Cl-) r_15 = 88.8012672905 nm
+ (Na+)-(Cl-) r_23 = 0.254880592362 nm
+ (Na+)-(Cl-) r_24 = 131.462942934 nm
+ (Na+)-(Cl-) r_25 = 1.00025151577 nm
+ (Cl-)-(Cl-) r_34 = 131.472404586 nm
+ (Cl-)-(Cl-) r_35 = 0.962260460034 nm
+ (Cl-)-(Cl-) r_45 = 130.939968419 nm
+   0.618   0.223   0.344
+ -88.090   0.188   0.345
+  -0.252   0.714   0.304
+  -0.241   0.511   0.457
+  87.741  66.389  72.598
+   0.711   0.447   0.330
+
+Optimization terminated successfully.
+         Current function value: -18.509433
+         Iterations: 204
+         Function evaluations: 277
+         Gradient evaluations: 277
+ Minimized potential energy = -18.5094334414 eV
+ (Na+)-(Na+) r_01 = 31.3564871138 nm
+ (Na+)-(Na+) r_02 = 0.350108816762 nm
+ (Na+)-(Cl-) r_03 = 0.247564297784 nm
+ (Na+)-(Cl-) r_04 = 0.247564264945 nm
+ (Na+)-(Cl-) r_05 = 31.5361992375 nm
+ (Na+)-(Na+) r_12 = 31.6901820609 nm
+ (Na+)-(Cl-) r_13 = 31.4957779961 nm
+ (Na+)-(Cl-) r_14 = 31.551749313 nm
+ (Na+)-(Cl-) r_15 = 0.228382617313 nm
+ (Na+)-(Cl-) r_23 = 0.247564372225 nm
+ (Na+)-(Cl-) r_24 = 0.247564334706 nm
+ (Na+)-(Cl-) r_25 = 31.8698511211 nm
+ (Cl-)-(Cl-) r_34 = 0.350108813734 nm
+ (Cl-)-(Cl-) r_35 = 31.6760941501 nm
+ (Cl-)-(Cl-) r_45 = 31.7308103475 nm
+   0.578   0.459   0.094
+ -30.778   0.566   0.037
+   0.912   0.564   0.103
+   0.717   0.588   0.253
+   0.773   0.435  -0.057
+ -30.957   0.589  -0.103
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 1752
+         Function evaluations: 2163
+         Gradient evaluations: 2163
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843155762 nm
+ (Na+)-(Na+) r_02 = 0.425843157274 nm
+ (Na+)-(Cl-) r_03 = 0.245860659467 nm
+ (Na+)-(Cl-) r_04 = 0.491721322035 nm
+ (Na+)-(Cl-) r_05 = 0.245860660059 nm
+ (Na+)-(Na+) r_12 = 0.425843155317 nm
+ (Na+)-(Cl-) r_13 = 0.491721317145 nm
+ (Na+)-(Cl-) r_14 = 0.245860661853 nm
+ (Na+)-(Cl-) r_15 = 0.24586065883 nm
+ (Na+)-(Cl-) r_23 = 0.24586065968 nm
+ (Na+)-(Cl-) r_24 = 0.245860658795 nm
+ (Na+)-(Cl-) r_25 = 0.491721319505 nm
+ (Cl-)-(Cl-) r_34 = 0.425843151934 nm
+ (Cl-)-(Cl-) r_35 = 0.42584315108 nm
+ (Cl-)-(Cl-) r_45 = 0.425843154571 nm
+   0.531   0.591   0.361
+   0.106   0.620   0.377
+   0.295   0.446   0.037
+   0.515   0.485   0.140
+   0.090   0.514   0.156
+   0.327   0.659   0.480
+
+Optimization terminated successfully.
+         Current function value: -19.884922
+         Iterations: 86
+         Function evaluations: 116
+         Gradient evaluations: 116
+ Minimized potential energy = -19.884922082 eV
+ (Na+)-(Na+) r_01 = 0.364441036316 nm
+ (Na+)-(Na+) r_02 = 0.405979384291 nm
+ (Na+)-(Cl-) r_03 = 0.25443249833 nm
+ (Na+)-(Cl-) r_04 = 0.256658875286 nm
+ (Na+)-(Cl-) r_05 = 0.269506565897 nm
+ (Na+)-(Na+) r_12 = 0.619804771386 nm
+ (Na+)-(Cl-) r_13 = 0.242711935354 nm
+ (Na+)-(Cl-) r_14 = 0.585812142368 nm
+ (Na+)-(Cl-) r_15 = 0.264310526571 nm
+ (Na+)-(Cl-) r_23 = 0.637120589041 nm
+ (Na+)-(Cl-) r_24 = 0.238833894869 nm
+ (Na+)-(Cl-) r_25 = 0.360829974522 nm
+ (Cl-)-(Cl-) r_34 = 0.510998783932 nm
+ (Cl-)-(Cl-) r_35 = 0.364012183218 nm
+ (Cl-)-(Cl-) r_45 = 0.385582115405 nm
+   0.159   0.533   0.380
+   0.353   0.680   0.651
+   0.326   0.660   0.032
+   0.160   0.534   0.635
+   0.150   0.526   0.124
+   0.374   0.696   0.388
+
+Optimization terminated successfully.
+         Current function value: -20.514828
+         Iterations: 62
+         Function evaluations: 84
+         Gradient evaluations: 84
+ Minimized potential energy = -20.5148277672 eV
+ (Na+)-(Na+) r_01 = 0.411512476445 nm
+ (Na+)-(Na+) r_02 = 0.461170270064 nm
+ (Na+)-(Cl-) r_03 = 0.507623476824 nm
+ (Na+)-(Cl-) r_04 = 0.250350314588 nm
+ (Na+)-(Cl-) r_05 = 0.245549012892 nm
+ (Na+)-(Na+) r_12 = 0.424656457432 nm
+ (Na+)-(Cl-) r_13 = 0.247202519555 nm
+ (Na+)-(Cl-) r_14 = 0.446871078194 nm
+ (Na+)-(Cl-) r_15 = 0.245958404982 nm
+ (Na+)-(Cl-) r_23 = 0.247070244587 nm
+ (Na+)-(Cl-) r_24 = 0.250830849353 nm
+ (Na+)-(Cl-) r_25 = 0.52654475925 nm
+ (Cl-)-(Cl-) r_34 = 0.4053294235 nm
+ (Cl-)-(Cl-) r_35 = 0.448417768423 nm
+ (Cl-)-(Cl-) r_45 = 0.416269285296 nm
+   0.306   0.261   0.576
+  -0.038   0.093   0.425
+   0.230   0.224   0.123
+   0.015   0.119   0.185
+   0.355   0.285   0.332
+   0.090   0.155   0.626
+
+Optimization terminated successfully.
+         Current function value: -20.348384
+         Iterations: 125
+         Function evaluations: 149
+         Gradient evaluations: 149
+ Minimized potential energy = -20.34838357 eV
+ (Na+)-(Na+) r_01 = 0.529962648945 nm
+ (Na+)-(Na+) r_02 = 0.372763633088 nm
+ (Na+)-(Cl-) r_03 = 0.242360036776 nm
+ (Na+)-(Cl-) r_04 = 0.569697540857 nm
+ (Na+)-(Cl-) r_05 = 0.26643793088 nm
+ (Na+)-(Na+) r_12 = 0.372763632262 nm
+ (Na+)-(Cl-) r_13 = 0.569697539054 nm
+ (Na+)-(Cl-) r_14 = 0.242360037187 nm
+ (Na+)-(Cl-) r_15 = 0.266437929785 nm
+ (Na+)-(Cl-) r_23 = 0.251603306325 nm
+ (Na+)-(Cl-) r_24 = 0.251603306871 nm
+ (Na+)-(Cl-) r_25 = 0.290000694734 nm
+ (Cl-)-(Cl-) r_34 = 0.50157666778 nm
+ (Cl-)-(Cl-) r_35 = 0.368332161862 nm
+ (Cl-)-(Cl-) r_45 = 0.368332162681 nm
+   0.465   0.670   0.188
+   0.465   0.142   0.232
+   0.727   0.405   0.201
+   0.706   0.655   0.181
+   0.706   0.156   0.222
+   0.437   0.406   0.211
+
+Warning: Desired error not necessarily achieved due to precision loss.
+         Current function value: -17.177162
+         Iterations: 142
+         Function evaluations: 238
+         Gradient evaluations: 226
+ Minimized potential energy = -17.1771616206 eV
+ (Na+)-(Na+) r_01 = 0.478605406076 nm
+ (Na+)-(Na+) r_02 = 0.486101525351 nm
+ (Na+)-(Cl-) r_03 = 0.24510886099 nm
+ (Na+)-(Cl-) r_04 = 87.3045751237 nm
+ (Na+)-(Cl-) r_05 = 0.244322910302 nm
+ (Na+)-(Na+) r_12 = 0.961337707861 nm
+ (Na+)-(Cl-) r_13 = 0.722136468402 nm
+ (Na+)-(Cl-) r_14 = 87.5795088739 nm
+ (Na+)-(Cl-) r_15 = 0.23706988731 nm
+ (Na+)-(Cl-) r_23 = 0.243811703983 nm
+ (Na+)-(Cl-) r_24 = 87.0464243054 nm
+ (Na+)-(Cl-) r_25 = 0.726286200864 nm
+ (Cl-)-(Cl-) r_34 = 87.1882176071 nm
+ (Cl-)-(Cl-) r_35 = 0.488182286867 nm
+ (Cl-)-(Cl-) r_45 = 87.4261503004 nm
+   0.387   0.152   0.361
+   0.766   0.376   0.547
+  -0.016  -0.096   0.248
+   0.199   0.012   0.288
+ -72.135  39.630 -27.998
+   0.564   0.284   0.465
+
+Optimization terminated successfully.
+         Current function value: -20.514550
+         Iterations: 147
+         Function evaluations: 171
+         Gradient evaluations: 171
+ Minimized potential energy = -20.5145498966 eV
+ (Na+)-(Na+) r_01 = 0.418248749826 nm
+ (Na+)-(Na+) r_02 = 0.414660858479 nm
+ (Na+)-(Cl-) r_03 = 0.246646408409 nm
+ (Na+)-(Cl-) r_04 = 0.442624443085 nm
+ (Na+)-(Cl-) r_05 = 0.246309740963 nm
+ (Na+)-(Na+) r_12 = 0.462765140242 nm
+ (Na+)-(Cl-) r_13 = 0.246311597767 nm
+ (Na+)-(Cl-) r_14 = 0.250717144697 nm
+ (Na+)-(Cl-) r_15 = 0.521185610567 nm
+ (Na+)-(Cl-) r_23 = 0.516052492224 nm
+ (Na+)-(Cl-) r_24 = 0.250575751123 nm
+ (Na+)-(Cl-) r_25 = 0.245898564853 nm
+ (Cl-)-(Cl-) r_34 = 0.408300171281 nm
+ (Cl-)-(Cl-) r_35 = 0.450346344759 nm
+ (Cl-)-(Cl-) r_45 = 0.411278440158 nm
+   0.195   0.315   0.314
+  -0.129   0.393   0.061
+  -0.153   0.398   0.523
+   0.110   0.336   0.083
+  -0.234   0.418   0.287
+   0.087   0.341   0.533
+
+Optimization terminated successfully.
+         Current function value: -20.484820
+         Iterations: 202
+         Function evaluations: 239
+         Gradient evaluations: 239
+ Minimized potential energy = -20.4848197083 eV
+ (Na+)-(Na+) r_01 = 0.475857511217 nm
+ (Na+)-(Na+) r_02 = 0.412518169156 nm
+ (Na+)-(Cl-) r_03 = 0.252753488772 nm
+ (Na+)-(Cl-) r_04 = 0.531384990017 nm
+ (Na+)-(Cl-) r_05 = 0.246090143685 nm
+ (Na+)-(Na+) r_12 = 0.408663423287 nm
+ (Na+)-(Cl-) r_13 = 0.252519808377 nm
+ (Na+)-(Cl-) r_14 = 0.245622226621 nm
+ (Na+)-(Cl-) r_15 = 0.526082773053 nm
+ (Na+)-(Cl-) r_23 = 0.419569687849 nm
+ (Na+)-(Cl-) r_24 = 0.246612563976 nm
+ (Na+)-(Cl-) r_25 = 0.246997179956 nm
+ (Cl-)-(Cl-) r_34 = 0.40449642896 nm
+ (Cl-)-(Cl-) r_35 = 0.401360339641 nm
+ (Cl-)-(Cl-) r_45 = 0.460476637658 nm
+   0.287   0.177   0.088
+   0.287   0.206   0.563
+   0.287  -0.142   0.349
+   0.287   0.276   0.321
+   0.287  -0.040   0.574
+   0.287  -0.068   0.114
+
+Optimization terminated successfully.
+         Current function value: -20.374745
+         Iterations: 239
+         Function evaluations: 302
+         Gradient evaluations: 302
+ Minimized potential energy = -20.3747447788 eV
+ (Na+)-(Na+) r_01 = 0.410014471123 nm
+ (Na+)-(Na+) r_02 = 0.507367706015 nm
+ (Na+)-(Cl-) r_03 = 0.261441541884 nm
+ (Na+)-(Cl-) r_04 = 0.24720904472 nm
+ (Na+)-(Cl-) r_05 = 0.572535279802 nm
+ (Na+)-(Na+) r_12 = 0.378475491456 nm
+ (Na+)-(Cl-) r_13 = 0.353996315144 nm
+ (Na+)-(Cl-) r_14 = 0.251129071409 nm
+ (Na+)-(Cl-) r_15 = 0.24718158033 nm
+ (Na+)-(Cl-) r_23 = 0.256521398172 nm
+ (Na+)-(Cl-) r_24 = 0.533475027207 nm
+ (Na+)-(Cl-) r_25 = 0.243231175453 nm
+ (Cl-)-(Cl-) r_34 = 0.37128804679 nm
+ (Cl-)-(Cl-) r_35 = 0.39476581769 nm
+ (Cl-)-(Cl-) r_45 = 0.484976213285 nm
+   0.609   0.358   0.202
+   0.405   0.354   0.558
+   0.761   0.360   0.686
+   0.736   0.359   0.431
+   0.386   0.354   0.307
+   0.533   0.356   0.769
+
+Optimization terminated successfully.
+         Current function value: -20.265687
+         Iterations: 117
+         Function evaluations: 162
+         Gradient evaluations: 162
+ Minimized potential energy = -20.2656872322 eV
+ (Na+)-(Na+) r_01 = 0.372631031942 nm
+ (Na+)-(Na+) r_02 = 0.549248521857 nm
+ (Na+)-(Cl-) r_03 = 0.241779223483 nm
+ (Na+)-(Cl-) r_04 = 0.57732628411 nm
+ (Na+)-(Cl-) r_05 = 0.275048532296 nm
+ (Na+)-(Na+) r_12 = 0.376421216421 nm
+ (Na+)-(Cl-) r_13 = 0.252510658716 nm
+ (Na+)-(Cl-) r_14 = 0.253044957358 nm
+ (Na+)-(Cl-) r_15 = 0.282289376778 nm
+ (Na+)-(Cl-) r_23 = 0.581610034985 nm
+ (Na+)-(Cl-) r_24 = 0.24205745115 nm
+ (Na+)-(Cl-) r_25 = 0.276973195858 nm
+ (Cl-)-(Cl-) r_34 = 0.504805084202 nm
+ (Cl-)-(Cl-) r_35 = 0.369503815573 nm
+ (Cl-)-(Cl-) r_45 = 0.367540940543 nm
+   0.244   0.653   0.126
+   0.489   0.560   0.392
+   0.258   0.648   0.676
+   0.469   0.567   0.140
+   0.482   0.562   0.644
+   0.225   0.660   0.401
+
+Optimization terminated successfully.
+         Current function value: -19.147424
+         Iterations: 144
+         Function evaluations: 198
+         Gradient evaluations: 198
+ Minimized potential energy = -19.1474240017 eV
+ (Na+)-(Na+) r_01 = 0.955089522662 nm
+ (Na+)-(Na+) r_02 = 0.484050225264 nm
+ (Na+)-(Cl-) r_03 = 1.17878719488 nm
+ (Na+)-(Cl-) r_04 = 0.717545847493 nm
+ (Na+)-(Cl-) r_05 = 0.235744352196 nm
+ (Na+)-(Na+) r_12 = 0.488185786455 nm
+ (Na+)-(Cl-) r_13 = 0.235657467427 nm
+ (Na+)-(Cl-) r_14 = 0.249292778486 nm
+ (Na+)-(Cl-) r_15 = 0.729799002897 nm
+ (Na+)-(Cl-) r_23 = 0.721563369932 nm
+ (Na+)-(Cl-) r_24 = 0.240457693631 nm
+ (Na+)-(Cl-) r_25 = 0.249468298032 nm
+ (Cl-)-(Cl-) r_34 = 0.484449580174 nm
+ (Cl-)-(Cl-) r_35 = 0.958810156776 nm
+ (Cl-)-(Cl-) r_45 = 0.486761981605 nm
+   0.458   0.301   0.610
+   1.213   0.560   0.086
+   0.786   0.414   0.273
+   1.430   0.635   0.034
+   0.989   0.483   0.163
+   0.606   0.352   0.434
+
+Optimization terminated successfully.
+         Current function value: -18.509434
+         Iterations: 136
+         Function evaluations: 222
+         Gradient evaluations: 222
+ Minimized potential energy = -18.5094335014 eV
+ (Na+)-(Na+) r_01 = 0.350108817073 nm
+ (Na+)-(Na+) r_02 = 61.9082240638 nm
+ (Na+)-(Cl-) r_03 = 0.247564320657 nm
+ (Na+)-(Cl-) r_04 = 61.8520837702 nm
+ (Na+)-(Cl-) r_05 = 0.247564322311 nm
+ (Na+)-(Na+) r_12 = 62.0332574529 nm
+ (Na+)-(Cl-) r_13 = 0.247564314716 nm
+ (Na+)-(Cl-) r_14 = 61.9781622163 nm
+ (Na+)-(Cl-) r_15 = 0.247564316336 nm
+ (Na+)-(Cl-) r_23 = 61.8234943837 nm
+ (Na+)-(Cl-) r_24 = 0.228382617718 nm
+ (Na+)-(Cl-) r_25 = 62.117701012 nm
+ (Cl-)-(Cl-) r_34 = 61.7679357008 nm
+ (Cl-)-(Cl-) r_35 = 0.350108816507 nm
+ (Cl-)-(Cl-) r_45 = 62.0620252454 nm
+   0.190   0.412   0.356
+   0.073   0.631   0.602
+ -32.532 -52.142   0.403
+   0.072   0.386   0.571
+ -32.328 -52.202   0.318
+   0.192   0.658   0.387
+
+Optimization terminated successfully.
+         Current function value: -20.468375
+         Iterations: 102
+         Function evaluations: 119
+         Gradient evaluations: 119
+ Minimized potential energy = -20.4683747039 eV
+ (Na+)-(Na+) r_01 = 0.481217001543 nm
+ (Na+)-(Na+) r_02 = 0.414379076361 nm
+ (Na+)-(Cl-) r_03 = 0.254058314482 nm
+ (Na+)-(Cl-) r_04 = 0.24655588189 nm
+ (Na+)-(Cl-) r_05 = 0.540669146564 nm
+ (Na+)-(Na+) r_12 = 0.402653190533 nm
+ (Na+)-(Cl-) r_13 = 0.25322464816 nm
+ (Na+)-(Cl-) r_14 = 0.524792386814 nm
+ (Na+)-(Cl-) r_15 = 0.24510181308 nm
+ (Na+)-(Cl-) r_23 = 0.410412284559 nm
+ (Na+)-(Cl-) r_24 = 0.247670585911 nm
+ (Na+)-(Cl-) r_25 = 0.246459224869 nm
+ (Cl-)-(Cl-) r_34 = 0.395372326885 nm
+ (Cl-)-(Cl-) r_35 = 0.404820179161 nm
+ (Cl-)-(Cl-) r_45 = 0.464308386611 nm
+   0.108   0.350   0.481
+   0.064   0.398   0.004
+   0.308   0.136   0.188
+   0.032   0.432   0.253
+   0.273   0.174   0.430
+   0.229   0.220  -0.030
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 114
+         Function evaluations: 149
+         Gradient evaluations: 149
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843155546 nm
+ (Na+)-(Na+) r_02 = 0.425843151027 nm
+ (Na+)-(Cl-) r_03 = 0.491721316665 nm
+ (Na+)-(Cl-) r_04 = 0.245860657988 nm
+ (Na+)-(Cl-) r_05 = 0.245860657797 nm
+ (Na+)-(Na+) r_12 = 0.425843152234 nm
+ (Na+)-(Cl-) r_13 = 0.245860656808 nm
+ (Na+)-(Cl-) r_14 = 0.245860659277 nm
+ (Na+)-(Cl-) r_15 = 0.491721320676 nm
+ (Na+)-(Cl-) r_23 = 0.245860658642 nm
+ (Na+)-(Cl-) r_24 = 0.491721312744 nm
+ (Na+)-(Cl-) r_25 = 0.245860659574 nm
+ (Cl-)-(Cl-) r_34 = 0.425843148094 nm
+ (Cl-)-(Cl-) r_35 = 0.425843153904 nm
+ (Cl-)-(Cl-) r_45 = 0.425843150237 nm
+   0.519   0.462   0.486
+   0.223   0.380   0.192
+   0.412   0.059   0.398
+   0.250   0.139   0.231
+   0.357   0.541   0.319
+   0.546   0.221   0.526
+
+Optimization terminated successfully.
+         Current function value: -20.552623
+         Iterations: 74
+         Function evaluations: 93
+         Gradient evaluations: 93
+ Minimized potential energy = -20.5526233913 eV
+ (Na+)-(Na+) r_01 = 0.425672093698 nm
+ (Na+)-(Na+) r_02 = 0.426766067608 nm
+ (Na+)-(Cl-) r_03 = 0.245876296891 nm
+ (Na+)-(Cl-) r_04 = 0.245958918044 nm
+ (Na+)-(Cl-) r_05 = 0.492357791176 nm
+ (Na+)-(Na+) r_12 = 0.425692940763 nm
+ (Na+)-(Cl-) r_13 = 0.245870950771 nm
+ (Na+)-(Cl-) r_14 = 0.490663936001 nm
+ (Na+)-(Cl-) r_15 = 0.245872523388 nm
+ (Na+)-(Cl-) r_23 = 0.492390589742 nm
+ (Na+)-(Cl-) r_24 = 0.245959040672 nm
+ (Na+)-(Cl-) r_25 = 0.245877991855 nm
+ (Cl-)-(Cl-) r_34 = 0.425484180922 nm
+ (Cl-)-(Cl-) r_35 = 0.426408722219 nm
+ (Cl-)-(Cl-) r_45 = 0.425466242898 nm
+   0.045   0.359   0.136
+   0.386   0.216   0.346
+   0.048   0.358   0.563
+   0.272   0.264   0.134
+  -0.066   0.406   0.350
+   0.275   0.263   0.560
+
+Optimization terminated successfully.
+         Current function value: -18.509434
+         Iterations: 131
+         Function evaluations: 195
+         Gradient evaluations: 195
+ Minimized potential energy = -18.5094335011 eV
+ (Na+)-(Na+) r_01 = 56.2101312986 nm
+ (Na+)-(Na+) r_02 = 0.350108816855 nm
+ (Na+)-(Cl-) r_03 = 56.2696639396 nm
+ (Na+)-(Cl-) r_04 = 0.24756431559 nm
+ (Na+)-(Cl-) r_05 = 0.24756432425 nm
+ (Na+)-(Na+) r_12 = 56.0970543785 nm
+ (Na+)-(Cl-) r_13 = 0.228382617731 nm
+ (Na+)-(Cl-) r_14 = 56.1805392256 nm
+ (Na+)-(Cl-) r_15 = 56.1266904509 nm
+ (Na+)-(Cl-) r_23 = 56.1568479564 nm
+ (Na+)-(Cl-) r_24 = 0.24756431267 nm
+ (Na+)-(Cl-) r_25 = 0.247564321285 nm
+ (Cl-)-(Cl-) r_34 = 56.2395454511 nm
+ (Cl-)-(Cl-) r_35 = 56.1870107572 nm
+ (Cl-)-(Cl-) r_45 = 0.350108816563 nm
+   0.111   0.355   0.404
+  56.321   0.575   0.389
+   0.227   0.027   0.359
+  56.380   0.649   0.181
+   0.142   0.205   0.209
+   0.196   0.177   0.554
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 87
+         Function evaluations: 102
+         Gradient evaluations: 102
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843155284 nm
+ (Na+)-(Na+) r_02 = 0.425843154688 nm
+ (Na+)-(Cl-) r_03 = 0.491721322716 nm
+ (Na+)-(Cl-) r_04 = 0.245860660332 nm
+ (Na+)-(Cl-) r_05 = 0.245860659058 nm
+ (Na+)-(Na+) r_12 = 0.425843148596 nm
+ (Na+)-(Cl-) r_13 = 0.245860658098 nm
+ (Na+)-(Cl-) r_14 = 0.245860660608 nm
+ (Na+)-(Cl-) r_15 = 0.491721313914 nm
+ (Na+)-(Cl-) r_23 = 0.245860657239 nm
+ (Na+)-(Cl-) r_24 = 0.491721316734 nm
+ (Na+)-(Cl-) r_25 = 0.24586065803 nm
+ (Cl-)-(Cl-) r_34 = 0.425843155485 nm
+ (Cl-)-(Cl-) r_35 = 0.425843151871 nm
+ (Cl-)-(Cl-) r_45 = 0.425843150797 nm
+   0.207   0.377   0.496
+   0.419   0.168   0.192
+   0.416   0.594   0.195
+   0.488   0.383   0.093
+   0.279   0.166   0.393
+   0.275   0.591   0.397
+
+Optimization terminated successfully.
+         Current function value: -18.509433
+         Iterations: 110
+         Function evaluations: 178
+         Gradient evaluations: 178
+ Minimized potential energy = -18.5094334981 eV
+ (Na+)-(Na+) r_01 = 0.350108818203 nm
+ (Na+)-(Na+) r_02 = 62.1839032879 nm
+ (Na+)-(Cl-) r_03 = 0.247564315226 nm
+ (Na+)-(Cl-) r_04 = 0.247564324514 nm
+ (Na+)-(Cl-) r_05 = 62.0982675675 nm
+ (Na+)-(Na+) r_12 = 62.1525850661 nm
+ (Na+)-(Cl-) r_13 = 0.247564314311 nm
+ (Na+)-(Cl-) r_14 = 0.247564318317 nm
+ (Na+)-(Cl-) r_15 = 62.067777224 nm
+ (Na+)-(Cl-) r_23 = 61.9936785662 nm
+ (Na+)-(Cl-) r_24 = 62.3423249285 nm
+ (Na+)-(Cl-) r_25 = 0.22838261907 nm
+ (Cl-)-(Cl-) r_34 = 0.350108814208 nm
+ (Cl-)-(Cl-) r_35 = 61.9084279978 nm
+ (Cl-)-(Cl-) r_45 = 62.257130904 nm
+   0.577   0.158   0.470
+   0.305   0.011   0.635
+ -34.710  51.359   0.170
+   0.355   0.237   0.547
+   0.527  -0.068   0.558
+ -34.614  51.320  -0.034
+
+Optimization terminated successfully.
+         Current function value: -20.378365
+         Iterations: 185
+         Function evaluations: 224
+         Gradient evaluations: 224
+ Minimized potential energy = -20.3783652135 eV
+ (Na+)-(Na+) r_01 = 0.387908896706 nm
+ (Na+)-(Na+) r_02 = 0.516394052479 nm
+ (Na+)-(Cl-) r_03 = 0.244541484226 nm
+ (Na+)-(Cl-) r_04 = 0.574101662695 nm
+ (Na+)-(Cl-) r_05 = 0.26247964326 nm
+ (Na+)-(Na+) r_12 = 0.367073700808 nm
+ (Na+)-(Cl-) r_13 = 0.252018728022 nm
+ (Na+)-(Cl-) r_14 = 0.24925344631 nm
+ (Na+)-(Cl-) r_15 = 0.307476346711 nm
+ (Na+)-(Cl-) r_23 = 0.549800040901 nm
+ (Na+)-(Cl-) r_24 = 0.242265003033 nm
+ (Na+)-(Cl-) r_25 = 0.25787779586 nm
+ (Cl-)-(Cl-) r_34 = 0.497082990788 nm
+ (Cl-)-(Cl-) r_35 = 0.363453984363 nm
+ (Cl-)-(Cl-) r_45 = 0.37791512069 nm
+   0.104   0.243   0.183
+   0.185   0.067   0.519
+   0.048   0.365   0.682
+   0.200   0.035   0.269
+   0.145   0.154   0.749
+   0.063   0.333   0.426
+
+Warning: Maximum number of iterations has been exceeded.
+         Current function value: -16.256967
+         Iterations: 2400
+         Function evaluations: 3054
+         Gradient evaluations: 3054
+ Minimized potential energy = -16.2569671971 eV
+ (Na+)-(Na+) r_01 = 48.4204045507 nm
+ (Na+)-(Na+) r_02 = 91.3689431248 nm
+ (Na+)-(Cl-) r_03 = 91.4186053879 nm
+ (Na+)-(Cl-) r_04 = 0.228382563347 nm
+ (Na+)-(Cl-) r_05 = 48.6359230818 nm
+ (Na+)-(Na+) r_12 = 118.329267744 nm
+ (Na+)-(Cl-) r_13 = 118.437329971 nm
+ (Na+)-(Cl-) r_14 = 48.2109593102 nm
+ (Na+)-(Cl-) r_15 = 0.228383138746 nm
+ (Na+)-(Cl-) r_23 = 0.228383336851 nm
+ (Na+)-(Cl-) r_24 = 91.390152966 nm
+ (Na+)-(Cl-) r_25 = 118.514701787 nm
+ (Cl-)-(Cl-) r_34 = 91.4403147462 nm
+ (Cl-)-(Cl-) r_35 = 118.622824552 nm
+ (Cl-)-(Cl-) r_45 = 48.426619644 nm
+   0.351   0.166   0.381
+ -48.068   0.155   0.643
+  34.503  84.912   0.644
+  34.674  84.896   0.795
+   0.141   0.228   0.316
+ -48.284   0.106   0.702
+
+Optimization terminated successfully.
+         Current function value: -19.378396
+         Iterations: 79
+         Function evaluations: 99
+         Gradient evaluations: 99
+ Minimized potential energy = -19.3783961257 eV
+ (Na+)-(Na+) r_01 = 0.527892420968 nm
+ (Na+)-(Na+) r_02 = 0.355139714653 nm
+ (Na+)-(Cl-) r_03 = 0.753698832117 nm
+ (Na+)-(Cl-) r_04 = 0.270720065504 nm
+ (Na+)-(Cl-) r_05 = 0.242363718682 nm
+ (Na+)-(Na+) r_12 = 0.521552739531 nm
+ (Na+)-(Cl-) r_13 = 0.231991110209 nm
+ (Na+)-(Cl-) r_14 = 0.29031665985 nm
+ (Na+)-(Cl-) r_15 = 0.658819493841 nm
+ (Na+)-(Cl-) r_23 = 0.739921277726 nm
+ (Na+)-(Cl-) r_24 = 0.269426610897 nm
+ (Na+)-(Cl-) r_25 = 0.242519426306 nm
+ (Cl-)-(Cl-) r_34 = 0.522107540114 nm
+ (Cl-)-(Cl-) r_35 = 0.890387548473 nm
+ (Cl-)-(Cl-) r_45 = 0.368557398988 nm
+   0.027   0.536   0.526
+   0.027   0.287   0.060
+   0.027   0.184   0.571
+   0.027   0.238  -0.167
+   0.027   0.333   0.347
+   0.027   0.382   0.712
+
+Optimization terminated successfully.
+         Current function value: -19.693179
+         Iterations: 131
+         Function evaluations: 157
+         Gradient evaluations: 157
+ Minimized potential energy = -19.6931786104 eV
+ (Na+)-(Na+) r_01 = 0.645205989111 nm
+ (Na+)-(Na+) r_02 = 0.446809642964 nm
+ (Na+)-(Cl-) r_03 = 0.393854919636 nm
+ (Na+)-(Cl-) r_04 = 0.242737358303 nm
+ (Na+)-(Cl-) r_05 = 0.668896219656 nm
+ (Na+)-(Na+) r_12 = 0.377345930097 nm
+ (Na+)-(Cl-) r_13 = 0.25462343725 nm
+ (Na+)-(Cl-) r_14 = 0.584833055264 nm
+ (Na+)-(Cl-) r_15 = 0.246661596766 nm
+ (Na+)-(Cl-) r_23 = 0.287805948456 nm
+ (Na+)-(Cl-) r_24 = 0.266096497697 nm
+ (Na+)-(Cl-) r_25 = 0.255383987793 nm
+ (Cl-)-(Cl-) r_34 = 0.383362875149 nm
+ (Cl-)-(Cl-) r_35 = 0.360061246544 nm
+ (Cl-)-(Cl-) r_45 = 0.519617608627 nm
+   0.580   0.058   0.255
+   0.580   0.640   0.535
+   0.580   0.279   0.644
+   0.580   0.426   0.397
+   0.580   0.056   0.498
+   0.580   0.513   0.746
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 119
+         Function evaluations: 162
+         Gradient evaluations: 162
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843157602 nm
+ (Na+)-(Na+) r_02 = 0.425843151501 nm
+ (Na+)-(Cl-) r_03 = 0.245860658035 nm
+ (Na+)-(Cl-) r_04 = 0.491721319158 nm
+ (Na+)-(Cl-) r_05 = 0.245860661152 nm
+ (Na+)-(Na+) r_12 = 0.425843153604 nm
+ (Na+)-(Cl-) r_13 = 0.491721322501 nm
+ (Na+)-(Cl-) r_14 = 0.245860659628 nm
+ (Na+)-(Cl-) r_15 = 0.245860659596 nm
+ (Na+)-(Cl-) r_23 = 0.245860659729 nm
+ (Na+)-(Cl-) r_24 = 0.245860658436 nm
+ (Na+)-(Cl-) r_25 = 0.491721314917 nm
+ (Cl-)-(Cl-) r_34 = 0.425843155067 nm
+ (Cl-)-(Cl-) r_35 = 0.425843153209 nm
+ (Cl-)-(Cl-) r_45 = 0.425843151301 nm
+   0.064   0.538   0.540
+   0.426   0.385   0.375
+   0.050   0.253   0.223
+  -0.066   0.399   0.383
+   0.296   0.246   0.219
+   0.309   0.530   0.536
+
+Warning: Desired error not necessarily achieved due to precision loss.
+         Current function value: -14.276893
+         Iterations: 586
+         Function evaluations: 718
+         Gradient evaluations: 706
+ Minimized potential energy = -14.2768925669 eV
+ (Na+)-(Na+) r_01 = 39.5400193287 nm
+ (Na+)-(Na+) r_02 = 0.522271530992 nm
+ (Na+)-(Cl-) r_03 = 175.133786105 nm
+ (Na+)-(Cl-) r_04 = 0.254637998271 nm
+ (Na+)-(Cl-) r_05 = 0.272708431859 nm
+ (Na+)-(Na+) r_12 = 39.2150927096 nm
+ (Na+)-(Cl-) r_13 = 174.251409077 nm
+ (Na+)-(Cl-) r_14 = 39.7064927955 nm
+ (Na+)-(Cl-) r_15 = 39.3643424174 nm
+ (Na+)-(Cl-) r_23 = 175.254960664 nm
+ (Na+)-(Cl-) r_24 = 0.776813615862 nm
+ (Na+)-(Cl-) r_25 = 0.249755765186 nm
+ (Cl-)-(Cl-) r_34 = 175.078568041 nm
+ (Cl-)-(Cl-) r_35 = 175.193977002 nm
+ (Cl-)-(Cl-) r_45 = 0.527342712201 nm
+   0.389   0.542   0.234
+ -39.150   0.402   0.004
+   0.060   0.940   0.311
+ -23.749 -99.952 141.621
+   0.556   0.353   0.197
+   0.212   0.745   0.274
+
+Optimization terminated successfully.
+         Current function value: -17.602597
+         Iterations: 252
+         Function evaluations: 347
+         Gradient evaluations: 347
+ Minimized potential energy = -17.6025972658 eV
+ (Na+)-(Na+) r_01 = 0.486230312525 nm
+ (Na+)-(Na+) r_02 = 144.128918972 nm
+ (Na+)-(Cl-) r_03 = 0.251834419674 nm
+ (Na+)-(Cl-) r_04 = 0.234395895625 nm
+ (Na+)-(Cl-) r_05 = 144.196570841 nm
+ (Na+)-(Na+) r_12 = 144.04632904 nm
+ (Na+)-(Cl-) r_13 = 0.234395892851 nm
+ (Na+)-(Cl-) r_14 = 0.720626208151 nm
+ (Na+)-(Cl-) r_15 = 144.113517825 nm
+ (Na+)-(Cl-) r_23 = 144.085944055 nm
+ (Na+)-(Cl-) r_24 = 144.169301788 nm
+ (Na+)-(Cl-) r_25 = 0.228382619223 nm
+ (Cl-)-(Cl-) r_34 = 0.486230315299 nm
+ (Cl-)-(Cl-) r_35 = 144.153356237 nm
+ (Cl-)-(Cl-) r_45 = 144.237176437 nm
+   0.060   0.508   0.148
+   0.106   0.584   0.627
+ 113.243  89.743   0.456
+   0.084   0.547   0.396
+   0.038   0.472  -0.082
+ 113.394  89.659   0.606
+
+Optimization terminated successfully.
+         Current function value: -20.322631
+         Iterations: 54
+         Function evaluations: 67
+         Gradient evaluations: 67
+ Minimized potential energy = -20.3226307862 eV
+ (Na+)-(Na+) r_01 = 0.363698336325 nm
+ (Na+)-(Na+) r_02 = 0.528936103193 nm
+ (Na+)-(Cl-) r_03 = 0.551024766401 nm
+ (Na+)-(Cl-) r_04 = 0.241826524504 nm
+ (Na+)-(Cl-) r_05 = 0.261485563941 nm
+ (Na+)-(Na+) r_12 = 0.394617526987 nm
+ (Na+)-(Cl-) r_13 = 0.25404140078 nm
+ (Na+)-(Cl-) r_14 = 0.249578253328 nm
+ (Na+)-(Cl-) r_15 = 0.30112913117 nm
+ (Na+)-(Cl-) r_23 = 0.245030071064 nm
+ (Na+)-(Cl-) r_24 = 0.586602060092 nm
+ (Na+)-(Cl-) r_25 = 0.270707536142 nm
+ (Cl-)-(Cl-) r_34 = 0.50026010607 nm
+ (Cl-)-(Cl-) r_35 = 0.359408195783 nm
+ (Cl-)-(Cl-) r_45 = 0.379392251279 nm
+   0.500   0.126   0.066
+   0.794   0.273   0.223
+   0.632   0.192   0.574
+   0.832   0.292   0.474
+   0.706   0.229  -0.006
+   0.540   0.146   0.324
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 206
+         Function evaluations: 242
+         Gradient evaluations: 242
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843151192 nm
+ (Na+)-(Na+) r_02 = 0.425843153474 nm
+ (Na+)-(Cl-) r_03 = 0.245860659498 nm
+ (Na+)-(Cl-) r_04 = 0.245860658583 nm
+ (Na+)-(Cl-) r_05 = 0.491721316035 nm
+ (Na+)-(Na+) r_12 = 0.42584315404 nm
+ (Na+)-(Cl-) r_13 = 0.491721317489 nm
+ (Na+)-(Cl-) r_14 = 0.245860658145 nm
+ (Na+)-(Cl-) r_15 = 0.245860659325 nm
+ (Na+)-(Cl-) r_23 = 0.245860658982 nm
+ (Na+)-(Cl-) r_24 = 0.49172131969 nm
+ (Na+)-(Cl-) r_25 = 0.245860658681 nm
+ (Cl-)-(Cl-) r_34 = 0.425843153766 nm
+ (Cl-)-(Cl-) r_35 = 0.425843151415 nm
+ (Cl-)-(Cl-) r_45 = 0.425843152574 nm
+   0.070   0.584   0.669
+   0.393   0.632   0.396
+   0.001   0.757   0.286
+  -0.083   0.683   0.505
+   0.309   0.558   0.615
+   0.240   0.731   0.232
+
+Optimization terminated successfully.
+         Current function value: -19.682378
+         Iterations: 86
+         Function evaluations: 121
+         Gradient evaluations: 121
+ Minimized potential energy = -19.6823778666 eV
+ (Na+)-(Na+) r_01 = 0.681462460475 nm
+ (Na+)-(Na+) r_02 = 0.42754973281 nm
+ (Na+)-(Cl-) r_03 = 0.440548037271 nm
+ (Na+)-(Cl-) r_04 = 0.236196128811 nm
+ (Na+)-(Cl-) r_05 = 0.675239216409 nm
+ (Na+)-(Na+) r_12 = 0.361211942394 nm
+ (Na+)-(Cl-) r_13 = 0.252993025739 nm
+ (Na+)-(Cl-) r_14 = 0.594233589468 nm
+ (Na+)-(Cl-) r_15 = 0.243875385247 nm
+ (Na+)-(Cl-) r_23 = 0.26579023922 nm
+ (Na+)-(Cl-) r_24 = 0.256578799152 nm
+ (Na+)-(Cl-) r_25 = 0.255827082976 nm
+ (Cl-)-(Cl-) r_34 = 0.409822632017 nm
+ (Cl-)-(Cl-) r_35 = 0.358623901659 nm
+ (Cl-)-(Cl-) r_45 = 0.510381286561 nm
+   0.518   0.015   0.315
+   0.518   0.661   0.532
+   0.552   0.436   0.251
+   0.507   0.409   0.512
+   0.553   0.194   0.166
+   0.560   0.688   0.293
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 89
+         Function evaluations: 105
+         Gradient evaluations: 105
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843153225 nm
+ (Na+)-(Na+) r_02 = 0.425843148006 nm
+ (Na+)-(Cl-) r_03 = 0.49172131121 nm
+ (Na+)-(Cl-) r_04 = 0.245860657476 nm
+ (Na+)-(Cl-) r_05 = 0.24586065768 nm
+ (Na+)-(Na+) r_12 = 0.425843154372 nm
+ (Na+)-(Cl-) r_13 = 0.245860657442 nm
+ (Na+)-(Cl-) r_14 = 0.245860660924 nm
+ (Na+)-(Cl-) r_15 = 0.491721321199 nm
+ (Na+)-(Cl-) r_23 = 0.245860658106 nm
+ (Na+)-(Cl-) r_24 = 0.49172131605 nm
+ (Na+)-(Cl-) r_25 = 0.24586065683 nm
+ (Cl-)-(Cl-) r_34 = 0.425843149238 nm
+ (Cl-)-(Cl-) r_35 = 0.425843150231 nm
+ (Cl-)-(Cl-) r_45 = 0.425843153152 nm
+   0.299   0.183   0.343
+  -0.070   0.378   0.426
+   0.013   0.238   0.033
+  -0.138   0.349   0.191
+   0.148   0.295   0.502
+   0.231   0.155   0.108
+
+Optimization terminated successfully.
+         Current function value: -19.265550
+         Iterations: 758
+         Function evaluations: 984
+         Gradient evaluations: 984
+ Minimized potential energy = -19.2655499907 eV
+ (Na+)-(Na+) r_01 = 0.347104675437 nm
+ (Na+)-(Na+) r_02 = 0.529958151303 nm
+ (Na+)-(Cl-) r_03 = 0.257918445656 nm
+ (Na+)-(Cl-) r_04 = 0.295270481361 nm
+ (Na+)-(Cl-) r_05 = 0.257918444729 nm
+ (Na+)-(Na+) r_12 = 0.745781359993 nm
+ (Na+)-(Cl-) r_13 = 0.243876181652 nm
+ (Na+)-(Cl-) r_14 = 0.563216994562 nm
+ (Na+)-(Cl-) r_15 = 0.243876181422 nm
+ (Na+)-(Cl-) r_23 = 0.668726830455 nm
+ (Na+)-(Cl-) r_24 = 0.240196396453 nm
+ (Na+)-(Cl-) r_25 = 0.668726866484 nm
+ (Cl-)-(Cl-) r_34 = 0.470060902933 nm
+ (Cl-)-(Cl-) r_35 = 0.360167261053 nm
+ (Cl-)-(Cl-) r_45 = 0.470060923996 nm
+   0.471   0.686   0.539
+   0.788   0.598   0.649
+   0.413   0.703   0.013
+   0.681   0.815   0.615
+   0.402   0.706   0.253
+   0.585   0.468   0.615
+
+Optimization terminated successfully.
+         Current function value: -20.486722
+         Iterations: 82
+         Function evaluations: 104
+         Gradient evaluations: 104
+ Minimized potential energy = -20.4867223264 eV
+ (Na+)-(Na+) r_01 = 0.419336297702 nm
+ (Na+)-(Na+) r_02 = 0.473878761922 nm
+ (Na+)-(Cl-) r_03 = 0.535822142135 nm
+ (Na+)-(Cl-) r_04 = 0.252937008534 nm
+ (Na+)-(Cl-) r_05 = 0.246900821349 nm
+ (Na+)-(Na+) r_12 = 0.406348862613 nm
+ (Na+)-(Cl-) r_13 = 0.246221000781 nm
+ (Na+)-(Cl-) r_14 = 0.425575988957 nm
+ (Na+)-(Cl-) r_15 = 0.247525302688 nm
+ (Na+)-(Cl-) r_23 = 0.245310859945 nm
+ (Na+)-(Cl-) r_24 = 0.25220986864 nm
+ (Na+)-(Cl-) r_25 = 0.517807188887 nm
+ (Cl-)-(Cl-) r_34 = 0.409740099037 nm
+ (Cl-)-(Cl-) r_35 = 0.458021258518 nm
+ (Cl-)-(Cl-) r_45 = 0.399128535593 nm
+   0.631   0.377   0.548
+   0.921   0.318   0.251
+   0.559   0.391   0.080
+   0.796   0.343   0.040
+   0.510   0.401   0.327
+   0.867   0.329   0.492
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 196
+         Function evaluations: 288
+         Gradient evaluations: 288
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843144904 nm
+ (Na+)-(Na+) r_02 = 0.425843146206 nm
+ (Na+)-(Cl-) r_03 = 0.245860657707 nm
+ (Na+)-(Cl-) r_04 = 0.491721308363 nm
+ (Na+)-(Cl-) r_05 = 0.245860658388 nm
+ (Na+)-(Na+) r_12 = 0.425843154459 nm
+ (Na+)-(Cl-) r_13 = 0.491721321032 nm
+ (Na+)-(Cl-) r_14 = 0.245860658826 nm
+ (Na+)-(Cl-) r_15 = 0.245860657911 nm
+ (Na+)-(Cl-) r_23 = 0.245860659312 nm
+ (Na+)-(Cl-) r_24 = 0.245860659817 nm
+ (Na+)-(Cl-) r_25 = 0.491721322567 nm
+ (Cl-)-(Cl-) r_34 = 0.425843154256 nm
+ (Cl-)-(Cl-) r_35 = 0.425843160705 nm
+ (Cl-)-(Cl-) r_45 = 0.425843153761 nm
+   0.031   0.409   0.433
+   0.366   0.203   0.598
+   0.378   0.626   0.550
+   0.151   0.622   0.456
+   0.485   0.417   0.621
+   0.139   0.199   0.504
+
+Warning: Desired error not necessarily achieved due to precision loss.
+         Current function value: -19.309391
+         Iterations: 81
+         Function evaluations: 147
+         Gradient evaluations: 135
+ Minimized potential energy = -19.3093906562 eV
+ (Na+)-(Na+) r_01 = 0.410407697866 nm
+ (Na+)-(Na+) r_02 = 0.607638859066 nm
+ (Na+)-(Cl-) r_03 = 0.390873643791 nm
+ (Na+)-(Cl-) r_04 = 0.544372437104 nm
+ (Na+)-(Cl-) r_05 = 0.239588909333 nm
+ (Na+)-(Na+) r_12 = 0.499257961738 nm
+ (Na+)-(Cl-) r_13 = 0.467501937791 nm
+ (Na+)-(Cl-) r_14 = 0.262128566697 nm
+ (Na+)-(Cl-) r_15 = 0.246710488272 nm
+ (Na+)-(Cl-) r_23 = 0.258727207921 nm
+ (Na+)-(Cl-) r_24 = 0.276792987647 nm
+ (Na+)-(Cl-) r_25 = 0.643971734455 nm
+ (Cl-)-(Cl-) r_34 = 0.376527233911 nm
+ (Cl-)-(Cl-) r_35 = 0.506460912979 nm
+ (Cl-)-(Cl-) r_45 = 0.474885410998 nm
+   0.428   0.228   0.077
+   0.032   0.272   0.175
+   0.206   0.253   0.642
+   0.395   0.232   0.466
+   0.022   0.273   0.437
+   0.203   0.253  -0.002
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 140
+         Function evaluations: 190
+         Gradient evaluations: 190
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843153619 nm
+ (Na+)-(Na+) r_02 = 0.425843153846 nm
+ (Na+)-(Cl-) r_03 = 0.245860659551 nm
+ (Na+)-(Cl-) r_04 = 0.245860658888 nm
+ (Na+)-(Cl-) r_05 = 0.491721316263 nm
+ (Na+)-(Na+) r_12 = 0.425843155434 nm
+ (Na+)-(Cl-) r_13 = 0.491721319759 nm
+ (Na+)-(Cl-) r_14 = 0.245860659403 nm
+ (Na+)-(Cl-) r_15 = 0.245860659495 nm
+ (Na+)-(Cl-) r_23 = 0.24586065942 nm
+ (Na+)-(Cl-) r_24 = 0.49172131947 nm
+ (Na+)-(Cl-) r_25 = 0.245860658734 nm
+ (Cl-)-(Cl-) r_34 = 0.425843153759 nm
+ (Cl-)-(Cl-) r_35 = 0.425843151743 nm
+ (Cl-)-(Cl-) r_45 = 0.425843152006 nm
+   0.137   0.615   0.263
+   0.555   0.683   0.221
+   0.395   0.567   0.598
+   0.170   0.560   0.500
+   0.330   0.676   0.123
+   0.588   0.628   0.458
+
+Optimization terminated successfully.
+         Current function value: -18.936665
+         Iterations: 37
+         Function evaluations: 47
+         Gradient evaluations: 47
+ Minimized potential energy = -18.9366648992 eV
+ (Na+)-(Na+) r_01 = 0.590895966631 nm
+ (Na+)-(Na+) r_02 = 0.428310610161 nm
+ (Na+)-(Cl-) r_03 = 0.250644498626 nm
+ (Na+)-(Cl-) r_04 = 0.251194117686 nm
+ (Na+)-(Cl-) r_05 = 0.54826793346 nm
+ (Na+)-(Na+) r_12 = 0.582863276738 nm
+ (Na+)-(Cl-) r_13 = 0.377781960962 nm
+ (Na+)-(Cl-) r_14 = 0.66959894247 nm
+ (Na+)-(Cl-) r_15 = 0.25009291364 nm
+ (Na+)-(Cl-) r_23 = 0.504607488233 nm
+ (Na+)-(Cl-) r_24 = 0.243011005172 nm
+ (Na+)-(Cl-) r_25 = 0.371906146366 nm
+ (Cl-)-(Cl-) r_34 = 0.438098765884 nm
+ (Cl-)-(Cl-) r_35 = 0.430598194129 nm
+ (Cl-)-(Cl-) r_45 = 0.527725450649 nm
+   0.460   0.080   0.214
+   0.460   0.493   0.637
+   0.460   0.478   0.054
+   0.460   0.165   0.450
+   0.460   0.237   0.018
+   0.460   0.593   0.408
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 115
+         Function evaluations: 152
+         Gradient evaluations: 152
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843154757 nm
+ (Na+)-(Na+) r_02 = 0.425843153928 nm
+ (Na+)-(Cl-) r_03 = 0.245860658441 nm
+ (Na+)-(Cl-) r_04 = 0.491721320782 nm
+ (Na+)-(Cl-) r_05 = 0.245860658935 nm
+ (Na+)-(Na+) r_12 = 0.42584315218 nm
+ (Na+)-(Cl-) r_13 = 0.491721317418 nm
+ (Na+)-(Cl-) r_14 = 0.2458606581 nm
+ (Na+)-(Cl-) r_15 = 0.245860660035 nm
+ (Na+)-(Cl-) r_23 = 0.245860659508 nm
+ (Na+)-(Cl-) r_24 = 0.245860660185 nm
+ (Na+)-(Cl-) r_25 = 0.491721317003 nm
+ (Cl-)-(Cl-) r_34 = 0.425843154566 nm
+ (Cl-)-(Cl-) r_35 = 0.425843151047 nm
+ (Cl-)-(Cl-) r_45 = 0.425843153427 nm
+   0.333   0.200   0.203
+   0.678   0.421   0.088
+   0.337   0.623   0.245
+   0.221   0.408   0.269
+   0.565   0.630   0.154
+   0.561   0.206   0.113
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 93
+         Function evaluations: 113
+         Gradient evaluations: 113
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843162091 nm
+ (Na+)-(Na+) r_02 = 0.425843146522 nm
+ (Na+)-(Cl-) r_03 = 0.245860660447 nm
+ (Na+)-(Cl-) r_04 = 0.49172132127 nm
+ (Na+)-(Cl-) r_05 = 0.245860658372 nm
+ (Na+)-(Na+) r_12 = 0.425843152216 nm
+ (Na+)-(Cl-) r_13 = 0.245860657355 nm
+ (Na+)-(Cl-) r_14 = 0.24586066069 nm
+ (Na+)-(Cl-) r_15 = 0.49172132816 nm
+ (Na+)-(Cl-) r_23 = 0.491721303112 nm
+ (Na+)-(Cl-) r_24 = 0.245860658166 nm
+ (Na+)-(Cl-) r_25 = 0.245860657512 nm
+ (Cl-)-(Cl-) r_34 = 0.42584314565 nm
+ (Cl-)-(Cl-) r_35 = 0.425843150074 nm
+ (Cl-)-(Cl-) r_45 = 0.425843158744 nm
+   0.188   0.227   0.588
+   0.461   0.044   0.316
+   0.093  -0.148   0.410
+   0.402   0.230   0.466
+   0.306  -0.145   0.288
+   0.034   0.038   0.560
+
+Optimization terminated successfully.
+         Current function value: -19.865021
+         Iterations: 88
+         Function evaluations: 117
+         Gradient evaluations: 117
+ Minimized potential energy = -19.8650207584 eV
+ (Na+)-(Na+) r_01 = 0.624716140171 nm
+ (Na+)-(Na+) r_02 = 0.403662380031 nm
+ (Na+)-(Cl-) r_03 = 0.636513415534 nm
+ (Na+)-(Cl-) r_04 = 0.365064244099 nm
+ (Na+)-(Cl-) r_05 = 0.238265552134 nm
+ (Na+)-(Na+) r_12 = 0.367596268306 nm
+ (Na+)-(Cl-) r_13 = 0.243028736971 nm
+ (Na+)-(Cl-) r_14 = 0.265330206292 nm
+ (Na+)-(Cl-) r_15 = 0.590577283161 nm
+ (Na+)-(Cl-) r_23 = 0.255153953819 nm
+ (Na+)-(Cl-) r_24 = 0.268906531486 nm
+ (Na+)-(Cl-) r_25 = 0.255979577209 nm
+ (Cl-)-(Cl-) r_34 = 0.361895194459 nm
+ (Cl-)-(Cl-) r_35 = 0.510945934053 nm
+ (Cl-)-(Cl-) r_45 = 0.389540656854 nm
+   0.044   0.103   0.272
+   0.044   0.666   0.542
+   0.265   0.424   0.375
+   0.279   0.655   0.483
+   0.003   0.426   0.437
+   0.264   0.193   0.265
+
+Warning: Desired error not necessarily achieved due to precision loss.
+         Current function value: -12.214794
+         Iterations: 904
+         Function evaluations: 1099
+         Gradient evaluations: 1087
+ Minimized potential energy = -12.2147941798 eV
+ (Na+)-(Na+) r_01 = 2.70384034627 nm
+ (Na+)-(Na+) r_02 = 0.488873590261 nm
+ (Na+)-(Cl-) r_03 = 238.345035454 nm
+ (Na+)-(Cl-) r_04 = 0.253401792515 nm
+ (Na+)-(Cl-) r_05 = 0.236190580324 nm
+ (Na+)-(Na+) r_12 = 2.67304751555 nm
+ (Na+)-(Cl-) r_13 = 238.107120491 nm
+ (Na+)-(Cl-) r_14 = 2.67635735964 nm
+ (Na+)-(Cl-) r_15 = 2.75065510119 nm
+ (Na+)-(Cl-) r_23 = 238.364968943 nm
+ (Na+)-(Cl-) r_24 = 0.235472606843 nm
+ (Na+)-(Cl-) r_25 = 0.725063323907 nm
+ (Cl-)-(Cl-) r_34 = 238.355186925 nm
+ (Cl-)-(Cl-) r_35 = 238.33589258 nm
+ (Cl-)-(Cl-) r_45 = 0.489592233391 nm
+   0.123   0.154   0.239
+   2.821   0.029   0.103
+   0.169  -0.311   0.094
+  15.025  81.135-223.432
+   0.147  -0.087   0.164
+   0.100   0.379   0.309
+
+Warning: Desired error not necessarily achieved due to precision loss.
+         Current function value: -15.140110
+         Iterations: 136
+         Function evaluations: 230
+         Gradient evaluations: 218
+ Minimized potential energy = -15.1401103546 eV
+ (Na+)-(Na+) r_01 = 0.477564335574 nm
+ (Na+)-(Na+) r_02 = 0.366639910515 nm
+ (Na+)-(Cl-) r_03 = 0.260608113275 nm
+ (Na+)-(Cl-) r_04 = 1.91830010447 nm
+ (Na+)-(Cl-) r_05 = 0.268665158435 nm
+ (Na+)-(Na+) r_12 = 0.47339923996 nm
+ (Na+)-(Cl-) r_13 = 0.590199164958 nm
+ (Na+)-(Cl-) r_14 = 2.37850113983 nm
+ (Na+)-(Cl-) r_15 = 0.244678816337 nm
+ (Na+)-(Cl-) r_23 = 0.259697635331 nm
+ (Na+)-(Cl-) r_24 = 2.10335793854 nm
+ (Na+)-(Cl-) r_25 = 0.276331340503 nm
+ (Cl-)-(Cl-) r_34 = 1.93273082547 nm
+ (Cl-)-(Cl-) r_35 = 0.373264366177 nm
+ (Cl-)-(Cl-) r_45 = 2.1562134185 nm
+   0.505   0.658   0.372
+   0.188   0.323   0.496
+   0.604   0.321   0.269
+   0.613   0.555   0.158
+   1.915   1.957   0.430
+   0.406   0.417   0.437
+
+Optimization terminated successfully.
+         Current function value: -20.259289
+         Iterations: 63
+         Function evaluations: 81
+         Gradient evaluations: 81
+ Minimized potential energy = -20.2592891266 eV
+ (Na+)-(Na+) r_01 = 0.501160538916 nm
+ (Na+)-(Na+) r_02 = 0.463025242508 nm
+ (Na+)-(Cl-) r_03 = 0.267296125701 nm
+ (Na+)-(Cl-) r_04 = 0.589297066837 nm
+ (Na+)-(Cl-) r_05 = 0.256876529327 nm
+ (Na+)-(Na+) r_12 = 0.38932587423 nm
+ (Na+)-(Cl-) r_13 = 0.260218946551 nm
+ (Na+)-(Cl-) r_14 = 0.244208245933 nm
+ (Na+)-(Cl-) r_15 = 0.491475908384 nm
+ (Na+)-(Cl-) r_23 = 0.427379413455 nm
+ (Na+)-(Cl-) r_24 = 0.245372053186 nm
+ (Na+)-(Cl-) r_25 = 0.256257717058 nm
+ (Cl-)-(Cl-) r_34 = 0.43020088186 nm
+ (Cl-)-(Cl-) r_35 = 0.373494850564 nm
+ (Cl-)-(Cl-) r_45 = 0.462141696315 nm
+   0.686   0.556   0.592
+   0.505   0.547   0.125
+   0.890   0.567   0.177
+   0.517   0.547   0.385
+   0.717   0.558   0.004
+   0.887   0.567   0.433
+
+Optimization terminated successfully.
+         Current function value: -18.509434
+         Iterations: 1161
+         Function evaluations: 1534
+         Gradient evaluations: 1532
+ Minimized potential energy = -18.5094336569 eV
+ (Na+)-(Na+) r_01 = 0.350108819987 nm
+ (Na+)-(Na+) r_02 = 23.7153947633 nm
+ (Na+)-(Cl-) r_03 = 0.247564233417 nm
+ (Na+)-(Cl-) r_04 = 23.6411046727 nm
+ (Na+)-(Cl-) r_05 = 0.247564289632 nm
+ (Na+)-(Na+) r_12 = 23.475809621 nm
+ (Na+)-(Cl-) r_13 = 0.247564348993 nm
+ (Na+)-(Cl-) r_14 = 23.3995719671 nm
+ (Na+)-(Cl-) r_15 = 0.247564405332 nm
+ (Na+)-(Cl-) r_23 = 23.6501117191 nm
+ (Na+)-(Cl-) r_24 = 0.22838261836 nm
+ (Na+)-(Cl-) r_25 = 23.5415761957 nm
+ (Cl-)-(Cl-) r_34 = 23.5736716178 nm
+ (Cl-)-(Cl-) r_35 = 0.350108815963 nm
+ (Cl-)-(Cl-) r_45 = 23.467505467 nm
+   0.161   0.043   0.254
+  -0.062   0.313   0.254
+ -23.495   1.712   0.032
+   0.106   0.224   0.413
+ -23.408   1.887   0.152
+  -0.006   0.132   0.095
+
+Optimization terminated successfully.
+         Current function value: -19.406955
+         Iterations: 50
+         Function evaluations: 74
+         Gradient evaluations: 74
+ Minimized potential energy = -19.4069549159 eV
+ (Na+)-(Na+) r_01 = 0.578418392727 nm
+ (Na+)-(Na+) r_02 = 0.49968134922 nm
+ (Na+)-(Cl-) r_03 = 0.356701219349 nm
+ (Na+)-(Cl-) r_04 = 0.587563347116 nm
+ (Na+)-(Cl-) r_05 = 0.259204316323 nm
+ (Na+)-(Na+) r_12 = 0.48276635528 nm
+ (Na+)-(Cl-) r_13 = 0.260861615807 nm
+ (Na+)-(Cl-) r_14 = 0.266766060217 nm
+ (Na+)-(Cl-) r_15 = 0.561970007789 nm
+ (Na+)-(Cl-) r_23 = 0.504925341584 nm
+ (Na+)-(Cl-) r_24 = 0.260448584974 nm
+ (Na+)-(Cl-) r_25 = 0.273205524082 nm
+ (Cl-)-(Cl-) r_34 = 0.412470033213 nm
+ (Cl-)-(Cl-) r_35 = 0.443662875761 nm
+ (Cl-)-(Cl-) r_45 = 0.452021420194 nm
+   0.397   0.080   0.506
+   0.397   0.657   0.464
+   0.397   0.354   0.088
+   0.397   0.427   0.588
+   0.397   0.586   0.207
+   0.397   0.136   0.253
+
+Optimization terminated successfully.
+         Current function value: -19.983869
+         Iterations: 112
+         Function evaluations: 157
+         Gradient evaluations: 157
+ Minimized potential energy = -19.9838689704 eV
+ (Na+)-(Na+) r_01 = 0.562135999172 nm
+ (Na+)-(Na+) r_02 = 0.446476021615 nm
+ (Na+)-(Cl-) r_03 = 0.304802274903 nm
+ (Na+)-(Cl-) r_04 = 0.251431654497 nm
+ (Na+)-(Cl-) r_05 = 0.618717626654 nm
+ (Na+)-(Na+) r_12 = 0.384631609393 nm
+ (Na+)-(Cl-) r_13 = 0.26565359204 nm
+ (Na+)-(Cl-) r_14 = 0.544604262387 nm
+ (Na+)-(Cl-) r_15 = 0.244575597152 nm
+ (Na+)-(Cl-) r_23 = 0.353588014308 nm
+ (Na+)-(Cl-) r_24 = 0.261201756092 nm
+ (Na+)-(Cl-) r_25 = 0.248847972644 nm
+ (Cl-)-(Cl-) r_34 = 0.367664031247 nm
+ (Cl-)-(Cl-) r_35 = 0.396631651805 nm
+ (Cl-)-(Cl-) r_45 = 0.494888054017 nm
+   0.149   0.159   0.167
+   0.149   0.510   0.606
+   0.149   0.126   0.612
+   0.149   0.385   0.372
+   0.149   0.017   0.374
+   0.149   0.323   0.764
+
+Optimization terminated successfully.
+         Current function value: -18.509434
+         Iterations: 163
+         Function evaluations: 270
+         Gradient evaluations: 270
+ Minimized potential energy = -18.5094335035 eV
+ (Na+)-(Na+) r_01 = 59.5161837362 nm
+ (Na+)-(Na+) r_02 = 0.350108816947 nm
+ (Na+)-(Cl-) r_03 = 0.247564317147 nm
+ (Na+)-(Cl-) r_04 = 59.6686080066 nm
+ (Na+)-(Cl-) r_05 = 0.247564325411 nm
+ (Na+)-(Na+) r_12 = 59.3913425671 nm
+ (Na+)-(Cl-) r_13 = 59.6053746428 nm
+ (Na+)-(Cl-) r_14 = 0.228382617321 nm
+ (Na+)-(Cl-) r_15 = 59.3018297426 nm
+ (Na+)-(Cl-) r_23 = 0.247564311 nm
+ (Na+)-(Cl-) r_24 = 59.5442796914 nm
+ (Na+)-(Cl-) r_25 = 0.247564320115 nm
+ (Cl-)-(Cl-) r_34 = 59.757990241 nm
+ (Cl-)-(Cl-) r_35 = 0.350108816387 nm
+ (Cl-)-(Cl-) r_45 = 59.4545761607 nm
+   0.279   0.001   0.161
+ -59.237   0.089   0.033
+   0.154   0.303   0.285
+   0.369   0.230   0.185
+ -59.388   0.057  -0.135
+   0.065   0.073   0.261
+
+Warning: Maximum number of iterations has been exceeded.
+         Current function value: -18.509433
+         Iterations: 2400
+         Function evaluations: 3090
+         Gradient evaluations: 3088
+ Minimized potential energy = -18.5094334961 eV
+ (Na+)-(Na+) r_01 = 50.1135443012 nm
+ (Na+)-(Na+) r_02 = 0.350108912383 nm
+ (Na+)-(Cl-) r_03 = 50.1412777608 nm
+ (Na+)-(Cl-) r_04 = 0.247564434249 nm
+ (Na+)-(Cl-) r_05 = 0.24756431541 nm
+ (Na+)-(Na+) r_12 = 49.8689480697 nm
+ (Na+)-(Cl-) r_13 = 0.22838264737 nm
+ (Na+)-(Cl-) r_14 = 50.0439340734 nm
+ (Na+)-(Cl-) r_15 = 49.9388022187 nm
+ (Na+)-(Cl-) r_23 = 49.8969671748 nm
+ (Na+)-(Cl-) r_24 = 0.247564320972 nm
+ (Na+)-(Cl-) r_25 = 0.247564427031 nm
+ (Cl-)-(Cl-) r_34 = 50.0725641197 nm
+ (Cl-)-(Cl-) r_35 = 49.9659223051 nm
+ (Cl-)-(Cl-) r_45 = 0.350108879335 nm
+   0.629   0.051   0.232
+ -49.482   0.522   0.389
+   0.386   0.256   0.378
+ -49.509   0.604   0.177
+   0.560   0.103   0.464
+   0.455   0.204   0.146
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 288
+         Function evaluations: 465
+         Gradient evaluations: 465
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843155595 nm
+ (Na+)-(Na+) r_02 = 0.425843154369 nm
+ (Na+)-(Cl-) r_03 = 0.245860659751 nm
+ (Na+)-(Cl-) r_04 = 0.491721322227 nm
+ (Na+)-(Cl-) r_05 = 0.245860659889 nm
+ (Na+)-(Na+) r_12 = 0.425843149913 nm
+ (Na+)-(Cl-) r_13 = 0.491721316512 nm
+ (Na+)-(Cl-) r_14 = 0.245860657958 nm
+ (Na+)-(Cl-) r_15 = 0.245860660439 nm
+ (Na+)-(Cl-) r_23 = 0.245860658625 nm
+ (Na+)-(Cl-) r_24 = 0.245860658416 nm
+ (Na+)-(Cl-) r_25 = 0.49172131634 nm
+ (Cl-)-(Cl-) r_34 = 0.425843153676 nm
+ (Cl-)-(Cl-) r_35 = 0.425843151778 nm
+ (Cl-)-(Cl-) r_45 = 0.42584315436 nm
+   0.290   0.247   0.501
+   0.491   0.116   0.149
+   0.648   0.440   0.376
+   0.462   0.419   0.535
+   0.663   0.288   0.183
+   0.304   0.095   0.308
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 97
+         Function evaluations: 119
+         Gradient evaluations: 119
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.42584315565 nm
+ (Na+)-(Na+) r_02 = 0.425843150248 nm
+ (Na+)-(Cl-) r_03 = 0.24586065882 nm
+ (Na+)-(Cl-) r_04 = 0.491721317355 nm
+ (Na+)-(Cl-) r_05 = 0.245860658634 nm
+ (Na+)-(Na+) r_12 = 0.425843153322 nm
+ (Na+)-(Cl-) r_13 = 0.491721322103 nm
+ (Na+)-(Cl-) r_14 = 0.245860659499 nm
+ (Na+)-(Cl-) r_15 = 0.245860659767 nm
+ (Na+)-(Cl-) r_23 = 0.245860658388 nm
+ (Na+)-(Cl-) r_24 = 0.245860658287 nm
+ (Na+)-(Cl-) r_25 = 0.491721313937 nm
+ (Cl-)-(Cl-) r_34 = 0.425843154099 nm
+ (Cl-)-(Cl-) r_35 = 0.425843152575 nm
+ (Cl-)-(Cl-) r_45 = 0.42584315088 nm
+   0.601   0.628   0.531
+   0.392   0.290   0.378
+   0.179   0.599   0.578
+   0.389   0.721   0.614
+   0.181   0.384   0.460
+   0.603   0.412   0.413
+
+Optimization terminated successfully.
+         Current function value: -20.552342
+         Iterations: 135
+         Function evaluations: 195
+         Gradient evaluations: 195
+ Minimized potential energy = -20.5523415534 eV
+ (Na+)-(Na+) r_01 = 0.426622551746 nm
+ (Na+)-(Na+) r_02 = 0.428709367911 nm
+ (Na+)-(Cl-) r_03 = 0.246191107611 nm
+ (Na+)-(Cl-) r_04 = 0.495517458105 nm
+ (Na+)-(Cl-) r_05 = 0.246030253135 nm
+ (Na+)-(Na+) r_12 = 0.424319587375 nm
+ (Na+)-(Cl-) r_13 = 0.488599866767 nm
+ (Na+)-(Cl-) r_14 = 0.245829942406 nm
+ (Na+)-(Cl-) r_15 = 0.246006701721 nm
+ (Na+)-(Cl-) r_23 = 0.246174777491 nm
+ (Na+)-(Cl-) r_24 = 0.245837308659 nm
+ (Na+)-(Cl-) r_25 = 0.491911015338 nm
+ (Cl-)-(Cl-) r_34 = 0.425698404147 nm
+ (Cl-)-(Cl-) r_35 = 0.423719521623 nm
+ (Cl-)-(Cl-) r_45 = 0.427500763149 nm
+   0.467   0.380   0.211
+   0.677   0.584   0.522
+   0.381   0.297   0.623
+   0.340   0.258   0.384
+   0.550   0.461   0.693
+   0.636   0.544   0.283
+
+Optimization terminated successfully.
+         Current function value: -19.607473
+         Iterations: 150
+         Function evaluations: 182
+         Gradient evaluations: 182
+ Minimized potential energy = -19.6074731408 eV
+ (Na+)-(Na+) r_01 = 0.720781400075 nm
+ (Na+)-(Na+) r_02 = 0.35875287208 nm
+ (Na+)-(Cl-) r_03 = 0.244075195187 nm
+ (Na+)-(Cl-) r_04 = 0.249266395197 nm
+ (Na+)-(Cl-) r_05 = 0.59840185564 nm
+ (Na+)-(Na+) r_12 = 0.442575893905 nm
+ (Na+)-(Cl-) r_13 = 0.696819501388 nm
+ (Na+)-(Cl-) r_14 = 0.49064366842 nm
+ (Na+)-(Cl-) r_15 = 0.235190988177 nm
+ (Na+)-(Cl-) r_23 = 0.256369712782 nm
+ (Na+)-(Cl-) r_24 = 0.264197282089 nm
+ (Na+)-(Cl-) r_25 = 0.256718576358 nm
+ (Cl-)-(Cl-) r_34 = 0.357873766194 nm
+ (Cl-)-(Cl-) r_35 = 0.508454190703 nm
+ (Cl-)-(Cl-) r_45 = 0.422960264504 nm
+   0.012   0.177   0.031
+   0.012   0.668   0.559
+  -0.084   0.497   0.162
+  -0.118   0.365  -0.055
+   0.056   0.290   0.249
+  -0.088   0.676   0.347
+
+Optimization terminated successfully.
+         Current function value: -20.348298
+         Iterations: 597
+         Function evaluations: 753
+         Gradient evaluations: 753
+ Minimized potential energy = -20.3482975382 eV
+ (Na+)-(Na+) r_01 = 0.514439808082 nm
+ (Na+)-(Na+) r_02 = 0.374416459933 nm
+ (Na+)-(Cl-) r_03 = 0.242932159299 nm
+ (Na+)-(Cl-) r_04 = 0.257863035396 nm
+ (Na+)-(Cl-) r_05 = 0.536971802657 nm
+ (Na+)-(Na+) r_12 = 0.409167600869 nm
+ (Na+)-(Cl-) r_13 = 0.579115191058 nm
+ (Na+)-(Cl-) r_14 = 0.264498313828 nm
+ (Na+)-(Cl-) r_15 = 0.247260079768 nm
+ (Na+)-(Cl-) r_23 = 0.247696081775 nm
+ (Na+)-(Cl-) r_24 = 0.340948992219 nm
+ (Na+)-(Cl-) r_25 = 0.252351729379 nm
+ (Cl-)-(Cl-) r_34 = 0.391506932989 nm
+ (Cl-)-(Cl-) r_35 = 0.489428823439 nm
+ (Cl-)-(Cl-) r_45 = 0.366456494384 nm
+   0.485   0.652   0.637
+   0.485   0.466   0.157
+   0.485   0.294   0.528
+   0.485   0.430   0.735
+   0.485   0.603   0.384
+   0.485   0.251   0.279
+
+Optimization terminated successfully.
+         Current function value: -20.512936
+         Iterations: 106
+         Function evaluations: 122
+         Gradient evaluations: 122
+ Minimized potential energy = -20.5129359452 eV
+ (Na+)-(Na+) r_01 = 0.446461733684 nm
+ (Na+)-(Na+) r_02 = 0.448545058451 nm
+ (Na+)-(Cl-) r_03 = 0.249793094204 nm
+ (Na+)-(Cl-) r_04 = 0.250030921454 nm
+ (Na+)-(Cl-) r_05 = 0.53425540017 nm
+ (Na+)-(Na+) r_12 = 0.408417834207 nm
+ (Na+)-(Cl-) r_13 = 0.249150499648 nm
+ (Na+)-(Cl-) r_14 = 0.47366497108 nm
+ (Na+)-(Cl-) r_15 = 0.245399798688 nm
+ (Na+)-(Cl-) r_23 = 0.477159374343 nm
+ (Na+)-(Cl-) r_24 = 0.249332247615 nm
+ (Na+)-(Cl-) r_25 = 0.245371857971 nm
+ (Cl-)-(Cl-) r_34 = 0.401301093998 nm
+ (Cl-)-(Cl-) r_35 = 0.435311062121 nm
+ (Cl-)-(Cl-) r_45 = 0.433473751514 nm
+   0.020   0.132   0.249
+  -0.021   0.336   0.644
+   0.060  -0.064   0.651
+  -0.020   0.331   0.395
+   0.059  -0.063   0.402
+   0.019   0.139   0.784
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 124
+         Function evaluations: 165
+         Gradient evaluations: 165
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843152384 nm
+ (Na+)-(Na+) r_02 = 0.42584315758 nm
+ (Na+)-(Cl-) r_03 = 0.245860660265 nm
+ (Na+)-(Cl-) r_04 = 0.491721315203 nm
+ (Na+)-(Cl-) r_05 = 0.245860658261 nm
+ (Na+)-(Na+) r_12 = 0.425843159679 nm
+ (Na+)-(Cl-) r_13 = 0.491721317535 nm
+ (Na+)-(Cl-) r_14 = 0.245860660795 nm
+ (Na+)-(Cl-) r_15 = 0.245860659691 nm
+ (Na+)-(Cl-) r_23 = 0.245860659058 nm
+ (Na+)-(Cl-) r_24 = 0.245860659832 nm
+ (Na+)-(Cl-) r_25 = 0.491721325163 nm
+ (Cl-)-(Cl-) r_34 = 0.425843148023 nm
+ (Cl-)-(Cl-) r_35 = 0.425843153564 nm
+ (Cl-)-(Cl-) r_45 = 0.425843153349 nm
+   0.525   0.292   0.256
+   0.110   0.352   0.180
+   0.236   0.033   0.431
+   0.470   0.099   0.398
+   0.056   0.159   0.322
+   0.345   0.419   0.147
+
+Optimization terminated successfully.
+         Current function value: -20.511735
+         Iterations: 73
+         Function evaluations: 89
+         Gradient evaluations: 89
+ Minimized potential energy = -20.5117353601 eV
+ (Na+)-(Na+) r_01 = 0.408322096158 nm
+ (Na+)-(Na+) r_02 = 0.45296971927 nm
+ (Na+)-(Cl-) r_03 = 0.249750078532 nm
+ (Na+)-(Cl-) r_04 = 0.24532639454 nm
+ (Na+)-(Cl-) r_05 = 0.484415833826 nm
+ (Na+)-(Na+) r_12 = 0.442049856542 nm
+ (Na+)-(Cl-) r_13 = 0.466093497941 nm
+ (Na+)-(Cl-) r_14 = 0.245474436667 nm
+ (Na+)-(Cl-) r_15 = 0.2487974741 nm
+ (Na+)-(Cl-) r_23 = 0.250546719307 nm
+ (Na+)-(Cl-) r_24 = 0.534379062319 nm
+ (Na+)-(Cl-) r_25 = 0.249300245392 nm
+ (Cl-)-(Cl-) r_34 = 0.429569915012 nm
+ (Cl-)-(Cl-) r_35 = 0.401186935088 nm
+ (Cl-)-(Cl-) r_45 = 0.439201327419 nm
+   0.664   0.683   0.040
+   0.265   0.607   0.076
+   0.488   0.650   0.456
+   0.672   0.685   0.289
+   0.453   0.643  -0.077
+   0.280   0.610   0.325
+
+Optimization terminated successfully.
+         Current function value: -19.064575
+         Iterations: 71
+         Function evaluations: 90
+         Gradient evaluations: 90
+ Minimized potential energy = -19.0645754832 eV
+ (Na+)-(Na+) r_01 = 0.516905851276 nm
+ (Na+)-(Na+) r_02 = 0.719416072537 nm
+ (Na+)-(Cl-) r_03 = 0.66982829785 nm
+ (Na+)-(Cl-) r_04 = 0.235221770332 nm
+ (Na+)-(Cl-) r_05 = 0.265814965631 nm
+ (Na+)-(Na+) r_12 = 0.448112058805 nm
+ (Na+)-(Cl-) r_13 = 0.247883086177 nm
+ (Na+)-(Cl-) r_14 = 0.72996419033 nm
+ (Na+)-(Cl-) r_15 = 0.253116551972 nm
+ (Na+)-(Cl-) r_23 = 0.236563506848 nm
+ (Na+)-(Cl-) r_24 = 0.835177740674 nm
+ (Na+)-(Cl-) r_25 = 0.556278282617 nm
+ (Cl-)-(Cl-) r_34 = 0.842529815627 nm
+ (Cl-)-(Cl-) r_35 = 0.440544102588 nm
+ (Cl-)-(Cl-) r_45 = 0.48902984426 nm
+   0.460   0.432   0.685
+   0.460   0.371   0.172
+   0.460   0.807   0.071
+   0.460   0.574   0.031
+   0.460   0.574   0.873
+   0.460   0.378   0.425
+
+Optimization terminated successfully.
+         Current function value: -20.517508
+         Iterations: 261
+         Function evaluations: 325
+         Gradient evaluations: 325
+ Minimized potential energy = -20.5175082003 eV
+ (Na+)-(Na+) r_01 = 0.410864923134 nm
+ (Na+)-(Na+) r_02 = 0.458134932318 nm
+ (Na+)-(Cl-) r_03 = 0.245453822364 nm
+ (Na+)-(Cl-) r_04 = 0.501111118872 nm
+ (Na+)-(Cl-) r_05 = 0.250003623815 nm
+ (Na+)-(Na+) r_12 = 0.429275618018 nm
+ (Na+)-(Cl-) r_13 = 0.245783103667 nm
+ (Na+)-(Cl-) r_14 = 0.247527373616 nm
+ (Na+)-(Cl-) r_15 = 0.453021077794 nm
+ (Na+)-(Cl-) r_23 = 0.527877131146 nm
+ (Na+)-(Cl-) r_24 = 0.247575005594 nm
+ (Na+)-(Cl-) r_25 = 0.250594634115 nm
+ (Cl-)-(Cl-) r_34 = 0.445531913825 nm
+ (Cl-)-(Cl-) r_35 = 0.420110074468 nm
+ (Cl-)-(Cl-) r_45 = 0.40472188661 nm
+   0.312   0.146   0.008
+  -0.081   0.121   0.125
+   0.196   0.139   0.452
+   0.078   0.131  -0.063
+  -0.036   0.124   0.368
+   0.352   0.149   0.255
+
+Optimization terminated successfully.
+         Current function value: -19.728744
+         Iterations: 77
+         Function evaluations: 105
+         Gradient evaluations: 105
+ Minimized potential energy = -19.7287444631 eV
+ (Na+)-(Na+) r_01 = 0.435340969013 nm
+ (Na+)-(Na+) r_02 = 0.354309496847 nm
+ (Na+)-(Cl-) r_03 = 0.253635679777 nm
+ (Na+)-(Cl-) r_04 = 0.260982762803 nm
+ (Na+)-(Cl-) r_05 = 0.269067177876 nm
+ (Na+)-(Na+) r_12 = 0.656049727425 nm
+ (Na+)-(Cl-) r_13 = 0.674158040367 nm
+ (Na+)-(Cl-) r_14 = 0.239076389849 nm
+ (Na+)-(Cl-) r_15 = 0.411954060352 nm
+ (Na+)-(Cl-) r_23 = 0.243235818278 nm
+ (Na+)-(Cl-) r_24 = 0.579139951916 nm
+ (Na+)-(Cl-) r_25 = 0.25185519393 nm
+ (Cl-)-(Cl-) r_34 = 0.514393566046 nm
+ (Cl-)-(Cl-) r_35 = 0.364847851782 nm
+ (Cl-)-(Cl-) r_45 = 0.390536544141 nm
+   0.359   0.485   0.435
+   0.472   0.507   0.015
+   0.637   0.538   0.649
+   0.401   0.493   0.685
+   0.302   0.474   0.180
+   0.621   0.535   0.397
+
+Optimization terminated successfully.
+         Current function value: -20.552648
+         Iterations: 110
+         Function evaluations: 137
+         Gradient evaluations: 137
+ Minimized potential energy = -20.5526480507 eV
+ (Na+)-(Na+) r_01 = 0.425843156827 nm
+ (Na+)-(Na+) r_02 = 0.425843163858 nm
+ (Na+)-(Cl-) r_03 = 0.245860661742 nm
+ (Na+)-(Cl-) r_04 = 0.245860661295 nm
+ (Na+)-(Cl-) r_05 = 0.49172133344 nm
+ (Na+)-(Na+) r_12 = 0.425843145776 nm
+ (Na+)-(Cl-) r_13 = 0.491721305979 nm
+ (Na+)-(Cl-) r_14 = 0.245860661334 nm
+ (Na+)-(Cl-) r_15 = 0.245860658195 nm
+ (Na+)-(Cl-) r_23 = 0.245860658736 nm
+ (Na+)-(Cl-) r_24 = 0.491721320308 nm
+ (Na+)-(Cl-) r_25 = 0.245860658425 nm
+ (Cl-)-(Cl-) r_34 = 0.425843147755 nm
+ (Cl-)-(Cl-) r_35 = 0.425843151943 nm
+ (Cl-)-(Cl-) r_45 = 0.425843161583 nm
+   0.282   0.655   0.410
+   0.596   0.368   0.420
+   0.261   0.308   0.165
+   0.163   0.520   0.243
+   0.498   0.579   0.499
+   0.477   0.232   0.253
+
